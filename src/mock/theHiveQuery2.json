@@ -1,0 +1,3887 @@
+[
+  {
+    "_id": "~81965128",
+    "_type": "Observable",
+    "_createdAt": 1668172455501,
+    "dataType": "ip",
+    "data": "141.105.65.94",
+    "startDate": 1668172455501,
+    "tlp": 1,
+    "tags": [
+      "unified-kill-chain:Network Propagation=\"credential-access\""
+    ],
+    "ioc": false,
+    "sighted": false,
+    "reports": {
+      "PassiveTotal_Osint_2_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "PT",
+            "predicate": "OSINT",
+            "value": "False"
+          }
+        ]
+      },
+      "AbuseIPDB_1_0": {
+        "taxonomies": [
+          {
+            "level": "safe",
+            "namespace": "AbuseIPDB",
+            "predicate": "Records",
+            "value": 0
+          }
+        ]
+      },
+      "RiskIQ_Summary_1_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Articles",
+            "value": 0
+          },
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Services",
+            "value": 1
+          },
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Projects",
+            "value": 0
+          },
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Certificates",
+            "value": 17
+          },
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Resolutions",
+            "value": 154
+          },
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Malware",
+            "value": 0
+          }
+        ]
+      },
+      "PassiveTotal_Malware_2_0": {
+        "taxonomies": [
+          {
+            "level": "safe",
+            "namespace": "PT",
+            "predicate": "Malware",
+            "value": "False"
+          }
+        ]
+      },
+      "MISP_2_1": {
+        "taxonomies": [
+          {
+            "level": "suspicious",
+            "namespace": "MISP",
+            "predicate": "Search",
+            "value": "3 event(s)"
+          }
+        ]
+      },
+      "RiskIQ_Reputation_1_0": {
+        "taxonomies": [
+          {
+            "level": "malicious",
+            "namespace": "RIQ",
+            "predicate": "ReputationScore",
+            "value": 100
+          }
+        ]
+      }
+    },
+    "message": "",
+    "extraData": {},
+    "ignoreSimilarity": false
+  },
+  {
+    "_id": "~163860480",
+    "_type": "Observable",
+    "_createdAt": 1668172455417,
+    "dataType": "ip",
+    "data": "87.118.110.27",
+    "startDate": 1668172455417,
+    "tlp": 1,
+    "tags": [
+      "unified-kill-chain:Network Propagation=\"credential-access\""
+    ],
+    "ioc": false,
+    "sighted": false,
+    "reports": {
+      "PassiveTotal_Osint_2_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "PT",
+            "predicate": "OSINT",
+            "value": "False"
+          }
+        ]
+      },
+      "AbuseIPDB_1_0": {
+        "taxonomies": [
+          {
+            "level": "malicious",
+            "namespace": "AbuseIPDB",
+            "predicate": "Records",
+            "value": 17
+          }
+        ]
+      },
+      "RiskIQ_Summary_1_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Resolutions",
+            "value": 7
+          },
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Malware",
+            "value": 0
+          },
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Certificates",
+            "value": 1233
+          },
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Articles",
+            "value": 0
+          },
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Projects",
+            "value": 0
+          },
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Services",
+            "value": 2
+          }
+        ]
+      },
+      "PassiveTotal_Malware_2_0": {
+        "taxonomies": [
+          {
+            "level": "safe",
+            "namespace": "PT",
+            "predicate": "Malware",
+            "value": "False"
+          }
+        ]
+      },
+      "MISP_2_1": {
+        "taxonomies": [
+          {
+            "level": "suspicious",
+            "namespace": "MISP",
+            "predicate": "Search",
+            "value": "7 event(s)"
+          }
+        ]
+      },
+      "RiskIQ_Reputation_1_0": {
+        "taxonomies": [
+          {
+            "level": "malicious",
+            "namespace": "RIQ",
+            "predicate": "ReputationScore",
+            "value": 100
+          }
+        ]
+      }
+    },
+    "message": "",
+    "extraData": {},
+    "ignoreSimilarity": false
+  },
+  {
+    "_id": "~40993008",
+    "_type": "Observable",
+    "_createdAt": 1668172455337,
+    "dataType": "ip",
+    "data": "91.203.5.146",
+    "startDate": 1668172455337,
+    "tlp": 1,
+    "tags": [
+      "unified-kill-chain:Network Propagation=\"credential-access\""
+    ],
+    "ioc": false,
+    "sighted": false,
+    "reports": {
+      "PassiveTotal_Osint_2_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "PT",
+            "predicate": "OSINT",
+            "value": "False"
+          }
+        ]
+      },
+      "AbuseIPDB_1_0": {
+        "taxonomies": [
+          {
+            "level": "malicious",
+            "namespace": "AbuseIPDB",
+            "predicate": "Records",
+            "value": 9
+          }
+        ]
+      },
+      "RiskIQ_Summary_1_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Malware",
+            "value": 0
+          },
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Projects",
+            "value": 0
+          },
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Resolutions",
+            "value": 185
+          },
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Articles",
+            "value": 0
+          },
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Services",
+            "value": 3
+          },
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Certificates",
+            "value": 1938
+          }
+        ]
+      },
+      "PassiveTotal_Malware_2_0": {
+        "taxonomies": [
+          {
+            "level": "safe",
+            "namespace": "PT",
+            "predicate": "Malware",
+            "value": "False"
+          }
+        ]
+      },
+      "MISP_2_1": {
+        "taxonomies": [
+          {
+            "level": "suspicious",
+            "namespace": "MISP",
+            "predicate": "Search",
+            "value": "1 event(s)"
+          }
+        ]
+      },
+      "RiskIQ_Reputation_1_0": {
+        "taxonomies": [
+          {
+            "level": "malicious",
+            "namespace": "RIQ",
+            "predicate": "ReputationScore",
+            "value": 100
+          }
+        ]
+      }
+    },
+    "message": "",
+    "extraData": {},
+    "ignoreSimilarity": false
+  },
+  {
+    "_id": "~40988912",
+    "_type": "Observable",
+    "_createdAt": 1668172454916,
+    "dataType": "ip",
+    "data": "37.123.163.58",
+    "startDate": 1668172454916,
+    "tlp": 1,
+    "tags": [
+      "unified-kill-chain:Network Propagation=\"credential-access\""
+    ],
+    "ioc": false,
+    "sighted": false,
+    "reports": {
+      "PassiveTotal_Osint_2_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "PT",
+            "predicate": "OSINT",
+            "value": "True"
+          }
+        ]
+      },
+      "AbuseIPDB_1_0": {
+        "taxonomies": [
+          {
+            "level": "malicious",
+            "namespace": "AbuseIPDB",
+            "predicate": "Records",
+            "value": 1
+          }
+        ]
+      },
+      "RiskIQ_Summary_1_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Certificates",
+            "value": 1606
+          },
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Projects",
+            "value": 0
+          },
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Malware",
+            "value": 0
+          },
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Services",
+            "value": 2
+          },
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Resolutions",
+            "value": 6
+          },
+          {
+            "level": "suspicious",
+            "namespace": "RIQ",
+            "predicate": "Articles",
+            "value": 1
+          }
+        ]
+      },
+      "PassiveTotal_Malware_2_0": {
+        "taxonomies": [
+          {
+            "level": "safe",
+            "namespace": "PT",
+            "predicate": "Malware",
+            "value": "False"
+          }
+        ]
+      },
+      "MISP_2_1": {
+        "taxonomies": [
+          {
+            "level": "suspicious",
+            "namespace": "MISP",
+            "predicate": "Search",
+            "value": "3 event(s)"
+          }
+        ]
+      },
+      "RiskIQ_Reputation_1_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "ReputationScore",
+            "value": 0
+          }
+        ]
+      }
+    },
+    "message": "",
+    "extraData": {},
+    "ignoreSimilarity": false
+  },
+  {
+    "_id": "~122994768",
+    "_type": "Observable",
+    "_createdAt": 1665180829178,
+    "dataType": "domain",
+    "data": "https://www.dehaagsehogeschool.nl/",
+    "startDate": 1665180829178,
+    "tlp": 1,
+    "tags": [
+      "nato:classification=\"CTS-B\""
+    ],
+    "ioc": false,
+    "sighted": false,
+    "reports": {
+      "VirusTotal_GetReport_3_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "VT",
+            "predicate": "GetReport",
+            "value": "0"
+          }
+        ]
+      },
+      "RiskIQ_Articles_1_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Articles",
+            "value": 0
+          }
+        ]
+      },
+      "PassiveTotal_Osint_2_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "PT",
+            "predicate": "OSINT",
+            "value": "False"
+          }
+        ]
+      },
+      "SpamhausDBL_1_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "SpamhausDBL",
+            "predicate": "return_code",
+            "value": "NXDOMAIN"
+          },
+          {
+            "level": "info",
+            "namespace": "SpamhausDBL",
+            "predicate": "classification",
+            "value": "Clean"
+          }
+        ]
+      },
+      "Maltiverse_Report_1_0": {
+        "taxonomies": [
+          {
+            "level": "safe",
+            "namespace": "Maltiverse",
+            "predicate": "Report",
+            "value": "-"
+          }
+        ]
+      },
+      "OTXQuery_2_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "OTX",
+            "predicate": "Pulses",
+            "value": "0"
+          }
+        ]
+      },
+      "RiskIQ_Summary_1_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Articles",
+            "value": 0
+          },
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Trackers",
+            "value": 0
+          },
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Malware",
+            "value": 0
+          },
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Components",
+            "value": 0
+          },
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Resolutions",
+            "value": 0
+          },
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Hostpairs",
+            "value": 0
+          },
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Cookies",
+            "value": 0
+          },
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Certificates",
+            "value": 0
+          },
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Projects",
+            "value": 0
+          }
+        ]
+      },
+      "PassiveTotal_Malware_2_0": {
+        "taxonomies": [
+          {
+            "level": "safe",
+            "namespace": "PT",
+            "predicate": "Malware",
+            "value": "False"
+          }
+        ]
+      },
+      "GoogleSafebrowsing_2_0": {
+        "taxonomies": [
+          {
+            "level": "safe",
+            "namespace": "Google",
+            "predicate": "Safebrowsing",
+            "value": "0 match"
+          }
+        ]
+      },
+      "MISP_2_1": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "MISP",
+            "predicate": "Search",
+            "value": "0 events"
+          }
+        ]
+      },
+      "RiskIQ_Malware_1_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Malware",
+            "value": 0
+          }
+        ]
+      },
+      "Shodan_DNSResolve_1_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "Shodan",
+            "predicate": "DNS resolutions",
+            "value": "1"
+          }
+        ]
+      },
+      "Shodan_InfoDomain_1_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "Shodan",
+            "predicate": "IPs",
+            "value": "0"
+          },
+          {
+            "level": "info",
+            "namespace": "Shodan",
+            "predicate": "ASNs",
+            "value": "0"
+          },
+          {
+            "level": "info",
+            "namespace": "Shodan",
+            "predicate": "Domains",
+            "value": "0"
+          },
+          {
+            "level": "info",
+            "namespace": "Shodan",
+            "predicate": "ISPs",
+            "value": "0"
+          }
+        ]
+      },
+      "RiskIQ_Reputation_1_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "ReputationScore",
+            "value": 0
+          }
+        ]
+      },
+      "RiskIQ_Artifacts_1_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Artifacts",
+            "value": null
+          }
+        ]
+      }
+    },
+    "message": "",
+    "extraData": {},
+    "ignoreSimilarity": false
+  },
+  {
+    "_id": "~122945552",
+    "_type": "Observable",
+    "_createdAt": 1665180701449,
+    "dataType": "domain",
+    "data": "https://hhs.nl",
+    "startDate": 1665180701449,
+    "tlp": 1,
+    "tags": [
+      "europol-event:wiretapping",
+      "nato:classification=\"NR\""
+    ],
+    "ioc": false,
+    "sighted": true,
+    "reports": {
+      "VirusTotal_GetReport_3_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "VT",
+            "predicate": "GetReport",
+            "value": "0"
+          }
+        ]
+      },
+      "RiskIQ_Articles_1_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Articles",
+            "value": 0
+          }
+        ]
+      },
+      "PassiveTotal_Osint_2_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "PT",
+            "predicate": "OSINT",
+            "value": "False"
+          }
+        ]
+      },
+      "SpamhausDBL_1_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "SpamhausDBL",
+            "predicate": "return_code",
+            "value": "NXDOMAIN"
+          },
+          {
+            "level": "info",
+            "namespace": "SpamhausDBL",
+            "predicate": "classification",
+            "value": "Clean"
+          }
+        ]
+      },
+      "Maltiverse_Report_1_0": {
+        "taxonomies": [
+          {
+            "level": "safe",
+            "namespace": "Maltiverse",
+            "predicate": "Report",
+            "value": "-"
+          }
+        ]
+      },
+      "OTXQuery_2_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "OTX",
+            "predicate": "Pulses",
+            "value": "0"
+          }
+        ]
+      },
+      "RiskIQ_Summary_1_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Resolutions",
+            "value": 0
+          },
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Projects",
+            "value": 0
+          },
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Components",
+            "value": 0
+          },
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Hostpairs",
+            "value": 0
+          },
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Cookies",
+            "value": 0
+          },
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Trackers",
+            "value": 0
+          },
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Malware",
+            "value": 0
+          },
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Articles",
+            "value": 0
+          },
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Certificates",
+            "value": 0
+          }
+        ]
+      },
+      "PassiveTotal_Malware_2_0": {
+        "taxonomies": [
+          {
+            "level": "safe",
+            "namespace": "PT",
+            "predicate": "Malware",
+            "value": "False"
+          }
+        ]
+      },
+      "GoogleSafebrowsing_2_0": {
+        "taxonomies": [
+          {
+            "level": "safe",
+            "namespace": "Google",
+            "predicate": "Safebrowsing",
+            "value": "0 match"
+          }
+        ]
+      },
+      "MISP_2_1": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "MISP",
+            "predicate": "Search",
+            "value": "0 events"
+          }
+        ]
+      },
+      "RiskIQ_Malware_1_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Malware",
+            "value": 0
+          }
+        ]
+      },
+      "Shodan_DNSResolve_1_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "Shodan",
+            "predicate": "DNS resolutions",
+            "value": "1"
+          }
+        ]
+      },
+      "Shodan_InfoDomain_1_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "Shodan",
+            "predicate": "ISPs",
+            "value": "0"
+          },
+          {
+            "level": "info",
+            "namespace": "Shodan",
+            "predicate": "ASNs",
+            "value": "0"
+          },
+          {
+            "level": "info",
+            "namespace": "Shodan",
+            "predicate": "Domains",
+            "value": "0"
+          },
+          {
+            "level": "info",
+            "namespace": "Shodan",
+            "predicate": "IPs",
+            "value": "0"
+          }
+        ]
+      },
+      "RiskIQ_Reputation_1_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "ReputationScore",
+            "value": 0
+          }
+        ]
+      },
+      "RiskIQ_Artifacts_1_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Artifacts",
+            "value": null
+          }
+        ]
+      }
+    },
+    "message": "",
+    "extraData": {},
+    "ignoreSimilarity": false
+  },
+  {
+    "_id": "~43593872",
+    "_type": "Observable",
+    "_createdAt": 1665060900854,
+    "dataType": "domain",
+    "data": "https://thepiratebay.org/",
+    "startDate": 1665060900854,
+    "tlp": 2,
+    "tags": [
+      "tlp:white",
+      "tlp:ex:chr"
+    ],
+    "ioc": false,
+    "sighted": true,
+    "reports": {
+      "RiskIQ_Certificates_1_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Certificates",
+            "value": 0
+          }
+        ]
+      },
+      "RiskIQ_Projects_1_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Projects",
+            "value": null
+          }
+        ]
+      },
+      "VirusTotal_GetReport_3_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "VT",
+            "predicate": "GetReport",
+            "value": "0"
+          }
+        ]
+      },
+      "RiskIQ_Articles_1_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Articles",
+            "value": 0
+          }
+        ]
+      },
+      "PassiveTotal_Osint_2_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "PT",
+            "predicate": "OSINT",
+            "value": "False"
+          }
+        ]
+      },
+      "SpamhausDBL_1_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "SpamhausDBL",
+            "predicate": "return_code",
+            "value": "NXDOMAIN"
+          },
+          {
+            "level": "info",
+            "namespace": "SpamhausDBL",
+            "predicate": "classification",
+            "value": "Clean"
+          }
+        ]
+      },
+      "Maltiverse_Report_1_0": {
+        "taxonomies": [
+          {
+            "level": "safe",
+            "namespace": "Maltiverse",
+            "predicate": "Report",
+            "value": "-"
+          }
+        ]
+      },
+      "OTXQuery_2_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "OTX",
+            "predicate": "Pulses",
+            "value": "0"
+          }
+        ]
+      },
+      "RiskIQ_Summary_1_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Resolutions",
+            "value": 0
+          },
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Articles",
+            "value": 0
+          },
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Malware",
+            "value": 0
+          },
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Hostpairs",
+            "value": 0
+          },
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Cookies",
+            "value": 0
+          },
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Projects",
+            "value": 0
+          },
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Certificates",
+            "value": 0
+          },
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Components",
+            "value": 0
+          },
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Trackers",
+            "value": 0
+          }
+        ]
+      },
+      "PassiveTotal_Malware_2_0": {
+        "taxonomies": [
+          {
+            "level": "safe",
+            "namespace": "PT",
+            "predicate": "Malware",
+            "value": "False"
+          }
+        ]
+      },
+      "GoogleSafebrowsing_2_0": {
+        "taxonomies": [
+          {
+            "level": "safe",
+            "namespace": "Google",
+            "predicate": "Safebrowsing",
+            "value": "0 match"
+          }
+        ]
+      },
+      "MISP_2_1": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "MISP",
+            "predicate": "Search",
+            "value": "0 events"
+          }
+        ]
+      },
+      "RiskIQ_Malware_1_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Malware",
+            "value": 0
+          }
+        ]
+      },
+      "Shodan_DNSResolve_1_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "Shodan",
+            "predicate": "DNS resolutions",
+            "value": "1"
+          }
+        ]
+      },
+      "Shodan_InfoDomain_1_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "Shodan",
+            "predicate": "IPs",
+            "value": "0"
+          },
+          {
+            "level": "info",
+            "namespace": "Shodan",
+            "predicate": "ASNs",
+            "value": "0"
+          },
+          {
+            "level": "info",
+            "namespace": "Shodan",
+            "predicate": "ISPs",
+            "value": "0"
+          },
+          {
+            "level": "info",
+            "namespace": "Shodan",
+            "predicate": "Domains",
+            "value": "0"
+          }
+        ]
+      },
+      "RiskIQ_Reputation_1_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "ReputationScore",
+            "value": 0
+          }
+        ]
+      },
+      "RiskIQ_Artifacts_1_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Artifacts",
+            "value": null
+          }
+        ]
+      }
+    },
+    "message": "",
+    "extraData": {},
+    "ignoreSimilarity": false
+  },
+  {
+    "_id": "~43532432",
+    "_type": "Observable",
+    "_createdAt": 1665060820229,
+    "dataType": "domain",
+    "data": "https://1337x.to/",
+    "startDate": 1665060820229,
+    "tlp": 2,
+    "tags": [
+      "ms-caro-malware-full:malware-family=\"Busky\"",
+      "nato:classification=\"NR\"",
+      "phishing:psychological-acceptability=\"medium\"",
+      "PAP:GREEN",
+      "phishing:report-type=\"automatic-reporting\""
+    ],
+    "ioc": false,
+    "sighted": true,
+    "reports": {
+      "RiskIQ_Certificates_1_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Certificates",
+            "value": 0
+          }
+        ]
+      },
+      "RiskIQ_Projects_1_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Projects",
+            "value": null
+          }
+        ]
+      },
+      "VirusTotal_GetReport_3_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "VT",
+            "predicate": "GetReport",
+            "value": "0"
+          }
+        ]
+      },
+      "RiskIQ_Articles_1_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Articles",
+            "value": 0
+          }
+        ]
+      },
+      "PassiveTotal_Osint_2_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "PT",
+            "predicate": "OSINT",
+            "value": "False"
+          }
+        ]
+      },
+      "SpamhausDBL_1_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "SpamhausDBL",
+            "predicate": "classification",
+            "value": "Clean"
+          },
+          {
+            "level": "info",
+            "namespace": "SpamhausDBL",
+            "predicate": "return_code",
+            "value": "NXDOMAIN"
+          }
+        ]
+      },
+      "Maltiverse_Report_1_0": {
+        "taxonomies": [
+          {
+            "level": "safe",
+            "namespace": "Maltiverse",
+            "predicate": "Report",
+            "value": "-"
+          }
+        ]
+      },
+      "OTXQuery_2_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "OTX",
+            "predicate": "Pulses",
+            "value": "0"
+          }
+        ]
+      },
+      "RiskIQ_Summary_1_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Certificates",
+            "value": 0
+          },
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Cookies",
+            "value": 0
+          },
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Hostpairs",
+            "value": 0
+          },
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Projects",
+            "value": 0
+          },
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Trackers",
+            "value": 0
+          },
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Resolutions",
+            "value": 0
+          },
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Malware",
+            "value": 0
+          },
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Components",
+            "value": 0
+          },
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Articles",
+            "value": 0
+          }
+        ]
+      },
+      "PassiveTotal_Malware_2_0": {
+        "taxonomies": [
+          {
+            "level": "safe",
+            "namespace": "PT",
+            "predicate": "Malware",
+            "value": "False"
+          }
+        ]
+      },
+      "GoogleSafebrowsing_2_0": {
+        "taxonomies": [
+          {
+            "level": "safe",
+            "namespace": "Google",
+            "predicate": "Safebrowsing",
+            "value": "0 match"
+          }
+        ]
+      },
+      "MISP_2_1": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "MISP",
+            "predicate": "Search",
+            "value": "0 events"
+          }
+        ]
+      },
+      "Abuse_Finder_3_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "Abuse_Finder",
+            "predicate": "Address",
+            "value": "None"
+          }
+        ]
+      },
+      "RiskIQ_Malware_1_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Malware",
+            "value": 0
+          }
+        ]
+      },
+      "Shodan_DNSResolve_1_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "Shodan",
+            "predicate": "DNS resolutions",
+            "value": "1"
+          }
+        ]
+      },
+      "Shodan_InfoDomain_1_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "Shodan",
+            "predicate": "ISPs",
+            "value": "0"
+          },
+          {
+            "level": "info",
+            "namespace": "Shodan",
+            "predicate": "Domains",
+            "value": "0"
+          },
+          {
+            "level": "info",
+            "namespace": "Shodan",
+            "predicate": "IPs",
+            "value": "0"
+          },
+          {
+            "level": "info",
+            "namespace": "Shodan",
+            "predicate": "ASNs",
+            "value": "0"
+          }
+        ]
+      },
+      "RiskIQ_Reputation_1_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "ReputationScore",
+            "value": 0
+          }
+        ]
+      },
+      "RiskIQ_Artifacts_1_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Artifacts",
+            "value": null
+          }
+        ]
+      }
+    },
+    "message": "",
+    "extraData": {},
+    "ignoreSimilarity": false
+  },
+  {
+    "_id": "~4152",
+    "_type": "Observable",
+    "_createdAt": 1665042315897,
+    "dataType": "ip",
+    "data": "192.101.252.40",
+    "startDate": 1665042315897,
+    "tlp": 1,
+    "tags": [
+      "ip",
+      "nato",
+      "misp"
+    ],
+    "ioc": false,
+    "sighted": false,
+    "reports": {
+      "RiskIQ_Certificates_1_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Certificates",
+            "value": 28
+          }
+        ]
+      },
+      "RiskIQ_Projects_1_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Projects",
+            "value": null
+          }
+        ]
+      },
+      "RiskIQ_Cookies_1_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Cookies",
+            "value": 2
+          }
+        ]
+      },
+      "VirusTotal_GetReport_3_0": {
+        "taxonomies": [
+          {
+            "level": "safe",
+            "namespace": "VT",
+            "predicate": "GetReport",
+            "value": "0 detected_url(s)"
+          }
+        ]
+      },
+      "MaxMind_GeoIP_4_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "MaxMind",
+            "predicate": "Location",
+            "value": "Belgium/Europe"
+          }
+        ]
+      },
+      "RiskIQ_Articles_1_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Articles",
+            "value": 0
+          }
+        ]
+      },
+      "PassiveTotal_Osint_2_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "PT",
+            "predicate": "OSINT",
+            "value": "False"
+          }
+        ]
+      },
+      "PassiveTotal_Passive_Dns_2_1": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "PT",
+            "predicate": "PassiveDNS",
+            "value": "1 record"
+          }
+        ]
+      },
+      "Shodan_Host_1_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "Shodan",
+            "predicate": "Org",
+            "value": "The North Atlantic Treaty Organization"
+          },
+          {
+            "level": "info",
+            "namespace": "Shodan",
+            "predicate": "Location",
+            "value": "Belgium"
+          },
+          {
+            "level": "info",
+            "namespace": "Shodan",
+            "predicate": "ASN",
+            "value": "AS21489"
+          }
+        ]
+      },
+      "RiskIQ_Resolutions_1_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Resolutions",
+            "value": 1
+          }
+        ]
+      },
+      "PassiveTotal_Host_Pairs_2_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "PT",
+            "predicate": "HostPairs",
+            "value": "3 records"
+          }
+        ]
+      },
+      "AbuseIPDB_1_0": {
+        "taxonomies": [
+          {
+            "level": "safe",
+            "namespace": "AbuseIPDB",
+            "predicate": "Records",
+            "value": 0
+          }
+        ]
+      },
+      "RiskIQ_HostpairParents_1_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "HostpairParents",
+            "value": 0
+          }
+        ]
+      },
+      "Maltiverse_Report_1_0": {
+        "taxonomies": [
+          {
+            "level": "safe",
+            "namespace": "Maltiverse",
+            "predicate": "Report",
+            "value": "neutral"
+          }
+        ]
+      },
+      "OTXQuery_2_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "OTX",
+            "predicate": "Pulses",
+            "value": "0"
+          }
+        ]
+      },
+      "RiskIQ_Summary_1_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Resolutions",
+            "value": 1
+          },
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Malware",
+            "value": 0
+          },
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Certificates",
+            "value": 30
+          },
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Projects",
+            "value": 0
+          },
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Articles",
+            "value": 0
+          },
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Services",
+            "value": 2
+          }
+        ]
+      },
+      "RiskIQ_Services_1_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Services",
+            "value": 2
+          }
+        ]
+      },
+      "Shodan_Host_History_1_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "Shodan",
+            "predicate": "ASN",
+            "value": "AS21489"
+          },
+          {
+            "level": "info",
+            "namespace": "Shodan",
+            "predicate": "Location",
+            "value": "Belgium"
+          },
+          {
+            "level": "info",
+            "namespace": "Shodan",
+            "predicate": "Org",
+            "value": "The North Atlantic Treaty Organization"
+          }
+        ]
+      },
+      "PassiveTotal_Malware_2_0": {
+        "taxonomies": [
+          {
+            "level": "safe",
+            "namespace": "PT",
+            "predicate": "Malware",
+            "value": "False"
+          }
+        ]
+      },
+      "PassiveTotal_Unique_Resolutions_2_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "PT",
+            "predicate": "UniqueResolution",
+            "value": "1 record(s)"
+          }
+        ]
+      },
+      "MISP_2_1": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "MISP",
+            "predicate": "Search",
+            "value": "0 events"
+          }
+        ]
+      },
+      "RiskIQ_Malware_1_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Malware",
+            "value": 0
+          }
+        ]
+      },
+      "RiskIQ_Components_1_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Components",
+            "value": 8
+          }
+        ]
+      },
+      "RiskIQ_Trackers_1_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Trackers",
+            "value": 3
+          }
+        ]
+      },
+      "RiskIQ_Reputation_1_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "ReputationScore",
+            "value": 0
+          }
+        ]
+      },
+      "RiskIQ_Artifacts_1_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Artifacts",
+            "value": null
+          }
+        ]
+      },
+      "Robtex_Reverse_PDNS_Query_1_0": {
+        "taxonomies": [
+          {
+            "level": "suspicious",
+            "namespace": "Robtex",
+            "predicate": "ReversePassiveDNS",
+            "value": "1 entries"
+          }
+        ]
+      },
+      "RiskIQ_HostpairChildren_1_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "HostpairChildren",
+            "value": 0
+          }
+        ]
+      },
+      "Robtex_IP_Query_1_0": {
+        "taxonomies": [
+          {
+            "level": "suspicious",
+            "namespace": "Robtex",
+            "predicate": "ActiveDNS",
+            "value": "1 entries"
+          },
+          {
+            "level": "suspicious",
+            "namespace": "Robtex",
+            "predicate": "PassiveDNS",
+            "value": "1 entries"
+          }
+        ]
+      }
+    },
+    "message": "",
+    "extraData": {},
+    "ignoreSimilarity": false
+  },
+  {
+    "_id": "~241808",
+    "_type": "Observable",
+    "_createdAt": 1664894339245,
+    "dataType": "ip",
+    "data": "195.133.198.126",
+    "startDate": 1664894339245,
+    "tlp": 2,
+    "tags": [
+      "ip",
+      "russia"
+    ],
+    "ioc": false,
+    "sighted": true,
+    "reports": {
+      "RiskIQ_Certificates_1_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Certificates",
+            "value": 1
+          }
+        ]
+      },
+      "RiskIQ_Projects_1_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Projects",
+            "value": null
+          }
+        ]
+      },
+      "RiskIQ_Cookies_1_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Cookies",
+            "value": 0
+          }
+        ]
+      },
+      "VirusTotal_GetReport_3_0": {
+        "taxonomies": [
+          {
+            "level": "safe",
+            "namespace": "VT",
+            "predicate": "GetReport",
+            "value": "0 detected_url(s)"
+          }
+        ]
+      },
+      "MaxMind_GeoIP_4_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "MaxMind",
+            "predicate": "Location",
+            "value": "Russia/Europe"
+          }
+        ]
+      },
+      "RiskIQ_Articles_1_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Articles",
+            "value": 0
+          }
+        ]
+      },
+      "PassiveTotal_Osint_2_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "PT",
+            "predicate": "OSINT",
+            "value": "False"
+          }
+        ]
+      },
+      "PassiveTotal_Passive_Dns_2_1": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "PT",
+            "predicate": "PassiveDNS",
+            "value": "12 records"
+          }
+        ]
+      },
+      "Shodan_Host_1_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "Shodan",
+            "predicate": "Org",
+            "value": "LLC DZHIBIEN HOST"
+          },
+          {
+            "level": "info",
+            "namespace": "Shodan",
+            "predicate": "Location",
+            "value": "Russian Federation"
+          },
+          {
+            "level": "suspicious",
+            "namespace": "Shodan",
+            "predicate": "VULNS",
+            "value": 280
+          },
+          {
+            "level": "info",
+            "namespace": "Shodan",
+            "predicate": "ASN",
+            "value": "AS35112"
+          }
+        ]
+      },
+      "RiskIQ_Resolutions_1_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Resolutions",
+            "value": 12
+          }
+        ]
+      },
+      "PassiveTotal_Host_Pairs_2_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "PT",
+            "predicate": "HostPairs",
+            "value": "0 record"
+          }
+        ]
+      },
+      "AbuseIPDB_1_0": {
+        "taxonomies": [
+          {
+            "level": "malicious",
+            "namespace": "AbuseIPDB",
+            "predicate": "Records",
+            "value": 4
+          }
+        ]
+      },
+      "RiskIQ_HostpairParents_1_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "HostpairParents",
+            "value": 0
+          }
+        ]
+      },
+      "Maltiverse_Report_1_0": {
+        "taxonomies": [
+          {
+            "level": "safe",
+            "namespace": "Maltiverse",
+            "predicate": "Report",
+            "value": "neutral"
+          }
+        ]
+      },
+      "OTXQuery_2_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "OTX",
+            "predicate": "Pulses",
+            "value": "0"
+          }
+        ]
+      },
+      "RiskIQ_Summary_1_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Projects",
+            "value": 0
+          },
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Certificates",
+            "value": 1
+          },
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Services",
+            "value": 3
+          },
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Resolutions",
+            "value": 12
+          },
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Malware",
+            "value": 0
+          },
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Articles",
+            "value": 0
+          }
+        ]
+      },
+      "RiskIQ_Services_1_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Services",
+            "value": 3
+          }
+        ]
+      },
+      "Shodan_Host_History_1_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "Shodan",
+            "predicate": "Org",
+            "value": "LLC DZHIBIEN HOST"
+          },
+          {
+            "level": "suspicious",
+            "namespace": "Shodan",
+            "predicate": "VULNS",
+            "value": 297
+          },
+          {
+            "level": "info",
+            "namespace": "Shodan",
+            "predicate": "Location",
+            "value": "Russian Federation"
+          },
+          {
+            "level": "info",
+            "namespace": "Shodan",
+            "predicate": "ASN",
+            "value": "AS35112"
+          }
+        ]
+      },
+      "PassiveTotal_Malware_2_0": {
+        "taxonomies": [
+          {
+            "level": "safe",
+            "namespace": "PT",
+            "predicate": "Malware",
+            "value": "False"
+          }
+        ]
+      },
+      "PassiveTotal_Unique_Resolutions_2_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "PT",
+            "predicate": "UniqueResolution",
+            "value": "12 record(s)"
+          }
+        ]
+      },
+      "MISP_2_1": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "MISP",
+            "predicate": "Search",
+            "value": "0 events"
+          }
+        ]
+      },
+      "RiskIQ_Malware_1_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Malware",
+            "value": 0
+          }
+        ]
+      },
+      "RiskIQ_Components_1_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Components",
+            "value": 16
+          }
+        ]
+      },
+      "RiskIQ_Trackers_1_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Trackers",
+            "value": 3
+          }
+        ]
+      },
+      "RiskIQ_Reputation_1_0": {
+        "taxonomies": [
+          {
+            "level": "suspicious",
+            "namespace": "RIQ",
+            "predicate": "ReputationScore",
+            "value": 54
+          }
+        ]
+      },
+      "RiskIQ_Artifacts_1_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Artifacts",
+            "value": null
+          }
+        ]
+      },
+      "RiskIQ_HostpairChildren_1_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "HostpairChildren",
+            "value": 0
+          }
+        ]
+      }
+    },
+    "message": "Hunt it down!!!",
+    "extraData": {},
+    "ignoreSimilarity": false
+  },
+  {
+    "_id": "~180232",
+    "_type": "Observable",
+    "_createdAt": 1664891154100,
+    "dataType": "ip",
+    "data": "206.189.2.23",
+    "startDate": 1664891154100,
+    "tlp": 2,
+    "tags": [
+      "mallware"
+    ],
+    "ioc": false,
+    "sighted": false,
+    "reports": {
+      "RiskIQ_Certificates_1_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Certificates",
+            "value": 1
+          }
+        ]
+      },
+      "RiskIQ_Projects_1_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Projects",
+            "value": null
+          }
+        ]
+      },
+      "RiskIQ_Cookies_1_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Cookies",
+            "value": 0
+          }
+        ]
+      },
+      "VirusTotal_GetReport_3_0": {
+        "taxonomies": [
+          {
+            "level": "malicious",
+            "namespace": "VT",
+            "predicate": "GetReport",
+            "value": "10 detected_url(s)"
+          }
+        ]
+      },
+      "MaxMind_GeoIP_4_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "MaxMind",
+            "predicate": "Location",
+            "value": "United States/North America"
+          }
+        ]
+      },
+      "RiskIQ_Articles_1_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Articles",
+            "value": 0
+          }
+        ]
+      },
+      "PassiveTotal_Osint_2_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "PT",
+            "predicate": "OSINT",
+            "value": "False"
+          }
+        ]
+      },
+      "PassiveTotal_Passive_Dns_2_1": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "PT",
+            "predicate": "PassiveDNS",
+            "value": "7 records"
+          }
+        ]
+      },
+      "Shodan_Host_1_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "Shodan",
+            "predicate": "Location",
+            "value": "Netherlands"
+          },
+          {
+            "level": "info",
+            "namespace": "Shodan",
+            "predicate": "Org",
+            "value": "DigitalOcean, LLC"
+          },
+          {
+            "level": "info",
+            "namespace": "Shodan",
+            "predicate": "ASN",
+            "value": "AS14061"
+          }
+        ]
+      },
+      "RiskIQ_Resolutions_1_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Resolutions",
+            "value": 0
+          }
+        ]
+      },
+      "PassiveTotal_Host_Pairs_2_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "PT",
+            "predicate": "HostPairs",
+            "value": "0 record"
+          }
+        ]
+      },
+      "AbuseIPDB_1_0": {
+        "taxonomies": [
+          {
+            "level": "safe",
+            "namespace": "AbuseIPDB",
+            "predicate": "Records",
+            "value": 0
+          }
+        ]
+      },
+      "RiskIQ_HostpairParents_1_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "HostpairParents",
+            "value": 0
+          }
+        ]
+      },
+      "Maltiverse_Report_1_0": {
+        "taxonomies": [
+          {
+            "level": "safe",
+            "namespace": "Maltiverse",
+            "predicate": "Report",
+            "value": "neutral"
+          }
+        ]
+      },
+      "OTXQuery_2_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "OTX",
+            "predicate": "Pulses",
+            "value": "0"
+          }
+        ]
+      },
+      "RiskIQ_Summary_1_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Articles",
+            "value": 0
+          },
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Projects",
+            "value": 0
+          },
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Certificates",
+            "value": 12
+          },
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Malware",
+            "value": 0
+          },
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Services",
+            "value": 2
+          },
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Resolutions",
+            "value": 7
+          }
+        ]
+      },
+      "RiskIQ_Services_1_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Services",
+            "value": 2
+          }
+        ]
+      },
+      "RiskIQ_Whois_1_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Whois Age (days)",
+            "value": 9827
+          },
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Whois Email",
+            "value": "noc@digitalocean.com"
+          }
+        ]
+      },
+      "Shodan_Host_History_1_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "Shodan",
+            "predicate": "Org",
+            "value": "DigitalOcean, LLC"
+          },
+          {
+            "level": "info",
+            "namespace": "Shodan",
+            "predicate": "ASN",
+            "value": "AS14061"
+          },
+          {
+            "level": "info",
+            "namespace": "Shodan",
+            "predicate": "Location",
+            "value": "Netherlands"
+          }
+        ]
+      },
+      "PassiveTotal_Malware_2_0": {
+        "taxonomies": [
+          {
+            "level": "safe",
+            "namespace": "PT",
+            "predicate": "Malware",
+            "value": "False"
+          }
+        ]
+      },
+      "PassiveTotal_Unique_Resolutions_2_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "PT",
+            "predicate": "UniqueResolution",
+            "value": "7 record(s)"
+          }
+        ]
+      },
+      "MISP_2_1": {
+        "taxonomies": [
+          {
+            "level": "suspicious",
+            "namespace": "MISP",
+            "predicate": "Search",
+            "value": "1 event(s)"
+          }
+        ]
+      },
+      "RiskIQ_Malware_1_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Malware",
+            "value": 0
+          }
+        ]
+      },
+      "RiskIQ_Components_1_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Components",
+            "value": 5
+          }
+        ]
+      },
+      "RiskIQ_Trackers_1_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Trackers",
+            "value": 1
+          }
+        ]
+      },
+      "RiskIQ_Reputation_1_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "ReputationScore",
+            "value": 21
+          }
+        ]
+      },
+      "RiskIQ_Artifacts_1_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Artifacts",
+            "value": null
+          }
+        ]
+      },
+      "RiskIQ_HostpairChildren_1_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "HostpairChildren",
+            "value": 0
+          }
+        ]
+      }
+    },
+    "message": "none",
+    "extraData": {},
+    "ignoreSimilarity": false
+  },
+  {
+    "_id": "~41103360",
+    "_type": "Observable",
+    "_createdAt": 1664890745556,
+    "dataType": "ip",
+    "data": "79.155.74.231",
+    "startDate": 1664890745556,
+    "tlp": 2,
+    "tags": [
+      "ip",
+      "new"
+    ],
+    "ioc": false,
+    "sighted": false,
+    "reports": {
+      "RiskIQ_Projects_1_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Projects",
+            "value": null
+          }
+        ]
+      },
+      "RiskIQ_Cookies_1_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Cookies",
+            "value": 0
+          }
+        ]
+      },
+      "VirusTotal_GetReport_3_0": {
+        "taxonomies": [
+          {
+            "level": "safe",
+            "namespace": "VT",
+            "predicate": "GetReport",
+            "value": "0 detected_url(s)"
+          }
+        ]
+      },
+      "MaxMind_GeoIP_4_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "MaxMind",
+            "predicate": "Location",
+            "value": "Spain/Europe"
+          }
+        ]
+      },
+      "RiskIQ_Articles_1_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Articles",
+            "value": 0
+          }
+        ]
+      },
+      "PassiveTotal_Osint_2_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "PT",
+            "predicate": "OSINT",
+            "value": "False"
+          }
+        ]
+      },
+      "PassiveTotal_Passive_Dns_2_1": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "PT",
+            "predicate": "PassiveDNS",
+            "value": "1 record"
+          }
+        ]
+      },
+      "RiskIQ_Resolutions_1_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Resolutions",
+            "value": 1
+          }
+        ]
+      },
+      "PassiveTotal_Host_Pairs_2_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "PT",
+            "predicate": "HostPairs",
+            "value": "0 record"
+          }
+        ]
+      },
+      "AbuseIPDB_1_0": {
+        "taxonomies": [
+          {
+            "level": "safe",
+            "namespace": "AbuseIPDB",
+            "predicate": "Records",
+            "value": 0
+          }
+        ]
+      },
+      "RiskIQ_HostpairParents_1_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "HostpairParents",
+            "value": 0
+          }
+        ]
+      },
+      "Maltiverse_Report_1_0": {
+        "taxonomies": [
+          {
+            "level": "safe",
+            "namespace": "Maltiverse",
+            "predicate": "Report",
+            "value": "neutral"
+          }
+        ]
+      },
+      "OTXQuery_2_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "OTX",
+            "predicate": "Pulses",
+            "value": "0"
+          }
+        ]
+      },
+      "RiskIQ_Summary_1_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Certificates",
+            "value": 0
+          },
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Articles",
+            "value": 0
+          },
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Projects",
+            "value": 0
+          },
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Malware",
+            "value": 0
+          },
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Resolutions",
+            "value": 1
+          },
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Services",
+            "value": 1
+          }
+        ]
+      },
+      "RiskIQ_Services_1_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Services",
+            "value": 1
+          }
+        ]
+      },
+      "PassiveTotal_Malware_2_0": {
+        "taxonomies": [
+          {
+            "level": "safe",
+            "namespace": "PT",
+            "predicate": "Malware",
+            "value": "False"
+          }
+        ]
+      },
+      "PassiveTotal_Unique_Resolutions_2_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "PT",
+            "predicate": "UniqueResolution",
+            "value": "1 record(s)"
+          }
+        ]
+      },
+      "MISP_2_1": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "MISP",
+            "predicate": "Search",
+            "value": "0 events"
+          }
+        ]
+      },
+      "RiskIQ_Malware_1_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Malware",
+            "value": 0
+          }
+        ]
+      },
+      "RiskIQ_Components_1_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Components",
+            "value": 0
+          }
+        ]
+      },
+      "RiskIQ_Trackers_1_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Trackers",
+            "value": 0
+          }
+        ]
+      },
+      "RiskIQ_Reputation_1_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "ReputationScore",
+            "value": 0
+          }
+        ]
+      },
+      "RiskIQ_Artifacts_1_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Artifacts",
+            "value": null
+          }
+        ]
+      },
+      "RiskIQ_HostpairChildren_1_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "HostpairChildren",
+            "value": 0
+          }
+        ]
+      }
+    },
+    "message": "",
+    "extraData": {},
+    "ignoreSimilarity": false
+  },
+  {
+    "_id": "~4104",
+    "_type": "Observable",
+    "_createdAt": 1664889158314,
+    "dataType": "ip",
+    "data": "51.195.12.195",
+    "startDate": 1664889158314,
+    "tlp": 2,
+    "tags": [
+      "firstseen"
+    ],
+    "ioc": false,
+    "sighted": true,
+    "reports": {
+      "RiskIQ_Projects_1_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Projects",
+            "value": null
+          }
+        ]
+      },
+      "RiskIQ_Cookies_1_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Cookies",
+            "value": 0
+          }
+        ]
+      },
+      "VirusTotal_GetReport_3_0": {
+        "taxonomies": [
+          {
+            "level": "safe",
+            "namespace": "VT",
+            "predicate": "GetReport",
+            "value": "0 detected_url(s)"
+          }
+        ]
+      },
+      "MaxMind_GeoIP_4_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "MaxMind",
+            "predicate": "Location",
+            "value": "United Kingdom/Europe"
+          }
+        ]
+      },
+      "RiskIQ_Articles_1_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Articles",
+            "value": 0
+          }
+        ]
+      },
+      "PassiveTotal_Osint_2_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "PT",
+            "predicate": "OSINT",
+            "value": "False"
+          }
+        ]
+      },
+      "PassiveTotal_Passive_Dns_2_1": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "PT",
+            "predicate": "PassiveDNS",
+            "value": "2 records"
+          }
+        ]
+      },
+      "Shodan_Host_1_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "Shodan",
+            "predicate": "ASN",
+            "value": "AS16276"
+          },
+          {
+            "level": "info",
+            "namespace": "Shodan",
+            "predicate": "Location",
+            "value": "Germany"
+          },
+          {
+            "level": "info",
+            "namespace": "Shodan",
+            "predicate": "Org",
+            "value": "Servicos Rdml"
+          },
+          {
+            "level": "suspicious",
+            "namespace": "Shodan",
+            "predicate": "VULNS",
+            "value": 83
+          }
+        ]
+      },
+      "RiskIQ_Resolutions_1_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Resolutions",
+            "value": 2
+          }
+        ]
+      },
+      "PassiveTotal_Host_Pairs_2_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "PT",
+            "predicate": "HostPairs",
+            "value": "0 record"
+          }
+        ]
+      },
+      "AbuseIPDB_1_0": {
+        "taxonomies": [
+          {
+            "level": "safe",
+            "namespace": "AbuseIPDB",
+            "predicate": "Records",
+            "value": 0
+          }
+        ]
+      },
+      "RiskIQ_HostpairParents_1_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "HostpairParents",
+            "value": 0
+          }
+        ]
+      },
+      "Maltiverse_Report_1_0": {
+        "taxonomies": [
+          {
+            "level": "safe",
+            "namespace": "Maltiverse",
+            "predicate": "Report",
+            "value": "neutral"
+          }
+        ]
+      },
+      "OTXQuery_2_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "OTX",
+            "predicate": "Pulses",
+            "value": "0"
+          }
+        ]
+      },
+      "RiskIQ_Summary_1_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Resolutions",
+            "value": 2
+          },
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Projects",
+            "value": 0
+          },
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Articles",
+            "value": 0
+          },
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Malware",
+            "value": 0
+          },
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Certificates",
+            "value": 21
+          },
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Services",
+            "value": 7
+          }
+        ]
+      },
+      "RiskIQ_Services_1_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Services",
+            "value": 7
+          }
+        ]
+      },
+      "Shodan_Host_History_1_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "Shodan",
+            "predicate": "Location",
+            "value": "Germany"
+          },
+          {
+            "level": "info",
+            "namespace": "Shodan",
+            "predicate": "ASN",
+            "value": "AS16276"
+          },
+          {
+            "level": "suspicious",
+            "namespace": "Shodan",
+            "predicate": "VULNS",
+            "value": 84
+          },
+          {
+            "level": "info",
+            "namespace": "Shodan",
+            "predicate": "Org",
+            "value": "Servicos Rdml"
+          }
+        ]
+      },
+      "PassiveTotal_Malware_2_0": {
+        "taxonomies": [
+          {
+            "level": "safe",
+            "namespace": "PT",
+            "predicate": "Malware",
+            "value": "False"
+          }
+        ]
+      },
+      "PassiveTotal_Unique_Resolutions_2_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "PT",
+            "predicate": "UniqueResolution",
+            "value": "2 record(s)"
+          }
+        ]
+      },
+      "MISP_2_1": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "MISP",
+            "predicate": "Search",
+            "value": "0 events"
+          }
+        ]
+      },
+      "RiskIQ_Malware_1_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Malware",
+            "value": 0
+          }
+        ]
+      },
+      "RiskIQ_Components_1_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Components",
+            "value": 9
+          }
+        ]
+      },
+      "RiskIQ_Trackers_1_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Trackers",
+            "value": 5
+          }
+        ]
+      },
+      "RiskIQ_Reputation_1_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "ReputationScore",
+            "value": 6
+          }
+        ]
+      },
+      "RiskIQ_Artifacts_1_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Artifacts",
+            "value": null
+          }
+        ]
+      },
+      "RiskIQ_HostpairChildren_1_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "HostpairChildren",
+            "value": 0
+          }
+        ]
+      }
+    },
+    "message": "new colleuge",
+    "extraData": {},
+    "ignoreSimilarity": false
+  },
+  {
+    "_id": "~4336",
+    "_type": "Observable",
+    "_createdAt": 1664889156898,
+    "dataType": "ip",
+    "data": "115.209.126.160",
+    "startDate": 1664889156898,
+    "tlp": 2,
+    "tags": [
+      "firstseen"
+    ],
+    "ioc": false,
+    "sighted": true,
+    "reports": {
+      "RiskIQ_Projects_1_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Projects",
+            "value": null
+          }
+        ]
+      },
+      "RiskIQ_Cookies_1_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Cookies",
+            "value": 0
+          }
+        ]
+      },
+      "VirusTotal_GetReport_3_0": {
+        "taxonomies": [
+          {
+            "level": "safe",
+            "namespace": "VT",
+            "predicate": "GetReport",
+            "value": "0 detected_url(s)"
+          }
+        ]
+      },
+      "MaxMind_GeoIP_4_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "MaxMind",
+            "predicate": "Location",
+            "value": "China/Asia"
+          }
+        ]
+      },
+      "RiskIQ_Articles_1_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Articles",
+            "value": 0
+          }
+        ]
+      },
+      "PassiveTotal_Osint_2_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "PT",
+            "predicate": "OSINT",
+            "value": "False"
+          }
+        ]
+      },
+      "PassiveTotal_Passive_Dns_2_1": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "PT",
+            "predicate": "PassiveDNS",
+            "value": "0 record"
+          }
+        ]
+      },
+      "Shodan_Host_1_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "Shodan",
+            "predicate": "Location",
+            "value": "China"
+          },
+          {
+            "level": "info",
+            "namespace": "Shodan",
+            "predicate": "Org",
+            "value": "CHINANET-ZJ Zhoushan node network"
+          },
+          {
+            "level": "info",
+            "namespace": "Shodan",
+            "predicate": "ASN",
+            "value": "AS4134"
+          }
+        ]
+      },
+      "RiskIQ_Resolutions_1_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Resolutions",
+            "value": 0
+          }
+        ]
+      },
+      "PassiveTotal_Host_Pairs_2_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "PT",
+            "predicate": "HostPairs",
+            "value": "0 record"
+          }
+        ]
+      },
+      "AbuseIPDB_1_0": {
+        "taxonomies": [
+          {
+            "level": "safe",
+            "namespace": "AbuseIPDB",
+            "predicate": "Records",
+            "value": 0
+          }
+        ]
+      },
+      "RiskIQ_HostpairParents_1_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "HostpairParents",
+            "value": 0
+          }
+        ]
+      },
+      "Maltiverse_Report_1_0": {
+        "taxonomies": [
+          {
+            "level": "safe",
+            "namespace": "Maltiverse",
+            "predicate": "Report",
+            "value": "neutral"
+          }
+        ]
+      },
+      "OTXQuery_2_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "OTX",
+            "predicate": "Pulses",
+            "value": "0"
+          }
+        ]
+      },
+      "RiskIQ_Summary_1_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Malware",
+            "value": 0
+          },
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Resolutions",
+            "value": 0
+          },
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Certificates",
+            "value": 2
+          },
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Services",
+            "value": 1
+          },
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Articles",
+            "value": 0
+          },
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Projects",
+            "value": 0
+          }
+        ]
+      },
+      "RiskIQ_Services_1_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Services",
+            "value": 1
+          }
+        ]
+      },
+      "RiskIQ_Whois_1_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Whois Email",
+            "value": "anti_spam@mail.zsptt.zj.cn"
+          },
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Whois Age (days)",
+            "value": 4311
+          },
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Whois Email",
+            "value": "antispam@zjnoc.hz.zj.cn"
+          }
+        ]
+      },
+      "Shodan_Host_History_1_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "Shodan",
+            "predicate": "ASN",
+            "value": "AS4134"
+          },
+          {
+            "level": "info",
+            "namespace": "Shodan",
+            "predicate": "Location",
+            "value": "China"
+          },
+          {
+            "level": "info",
+            "namespace": "Shodan",
+            "predicate": "Org",
+            "value": "CHINANET-ZJ Zhoushan node network"
+          }
+        ]
+      },
+      "PassiveTotal_Malware_2_0": {
+        "taxonomies": [
+          {
+            "level": "safe",
+            "namespace": "PT",
+            "predicate": "Malware",
+            "value": "False"
+          }
+        ]
+      },
+      "PassiveTotal_Unique_Resolutions_2_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "PT",
+            "predicate": "UniqueResolution",
+            "value": "0 record(s)"
+          }
+        ]
+      },
+      "MISP_2_1": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "MISP",
+            "predicate": "Search",
+            "value": "0 events"
+          }
+        ]
+      },
+      "RiskIQ_Malware_1_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Malware",
+            "value": 0
+          }
+        ]
+      },
+      "RiskIQ_Components_1_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Components",
+            "value": 0
+          }
+        ]
+      },
+      "RiskIQ_Trackers_1_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Trackers",
+            "value": 0
+          }
+        ]
+      },
+      "RiskIQ_Reputation_1_0": {
+        "taxonomies": [
+          {
+            "level": "suspicious",
+            "namespace": "RIQ",
+            "predicate": "ReputationScore",
+            "value": 68
+          }
+        ]
+      },
+      "RiskIQ_Artifacts_1_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Artifacts",
+            "value": null
+          }
+        ]
+      },
+      "RiskIQ_HostpairChildren_1_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "HostpairChildren",
+            "value": 0
+          }
+        ]
+      }
+    },
+    "message": "new colleuge",
+    "extraData": {},
+    "ignoreSimilarity": false
+  },
+  {
+    "_id": "~40972472",
+    "_type": "Observable",
+    "_createdAt": 1664889156118,
+    "dataType": "ip",
+    "data": "210.140.43.55 ",
+    "startDate": 1664889156118,
+    "tlp": 2,
+    "tags": [
+      "firstseen"
+    ],
+    "ioc": false,
+    "sighted": true,
+    "reports": {
+      "RiskIQ_Certificates_1_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Certificates",
+            "value": 0
+          }
+        ]
+      },
+      "RiskIQ_Projects_1_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Projects",
+            "value": null
+          }
+        ]
+      },
+      "RiskIQ_Cookies_1_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Cookies",
+            "value": 0
+          }
+        ]
+      },
+      "VirusTotal_GetReport_3_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "VT",
+            "predicate": "GetReport",
+            "value": "0"
+          }
+        ]
+      },
+      "RiskIQ_Articles_1_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Articles",
+            "value": 0
+          }
+        ]
+      },
+      "PassiveTotal_Osint_2_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "PT",
+            "predicate": "OSINT",
+            "value": "False"
+          }
+        ]
+      },
+      "PassiveTotal_Passive_Dns_2_1": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "PT",
+            "predicate": "PassiveDNS",
+            "value": "0 record"
+          }
+        ]
+      },
+      "Shodan_Host_1_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "Shodan",
+            "predicate": "Org",
+            "value": "IDC Frontier Inc."
+          },
+          {
+            "level": "info",
+            "namespace": "Shodan",
+            "predicate": "ASN",
+            "value": "AS4694"
+          },
+          {
+            "level": "suspicious",
+            "namespace": "Shodan",
+            "predicate": "VULNS",
+            "value": 255
+          },
+          {
+            "level": "info",
+            "namespace": "Shodan",
+            "predicate": "Location",
+            "value": "Japan"
+          }
+        ]
+      },
+      "RiskIQ_Resolutions_1_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Resolutions",
+            "value": 0
+          }
+        ]
+      },
+      "PassiveTotal_Host_Pairs_2_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "PT",
+            "predicate": "HostPairs",
+            "value": "0 record"
+          }
+        ]
+      },
+      "AbuseIPDB_1_0": {
+        "taxonomies": [
+          {
+            "level": "safe",
+            "namespace": "AbuseIPDB",
+            "predicate": "Records",
+            "value": 0
+          }
+        ]
+      },
+      "RiskIQ_HostpairParents_1_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "HostpairParents",
+            "value": 0
+          }
+        ]
+      },
+      "Maltiverse_Report_1_0": {
+        "taxonomies": [
+          {
+            "level": "safe",
+            "namespace": "Maltiverse",
+            "predicate": "Report",
+            "value": "-"
+          }
+        ]
+      },
+      "OTXQuery_2_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "OTX",
+            "predicate": "Pulses",
+            "value": "0"
+          }
+        ]
+      },
+      "RiskIQ_Summary_1_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Malware",
+            "value": 0
+          },
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Certificates",
+            "value": 0
+          },
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Projects",
+            "value": 0
+          },
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Trackers",
+            "value": 0
+          },
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Cookies",
+            "value": 0
+          },
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Resolutions",
+            "value": 0
+          },
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Articles",
+            "value": 0
+          },
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Components",
+            "value": 0
+          },
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Hostpairs",
+            "value": 0
+          }
+        ]
+      },
+      "Shodan_Host_History_1_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "Shodan",
+            "predicate": "Org",
+            "value": "IDC Frontier Inc."
+          },
+          {
+            "level": "info",
+            "namespace": "Shodan",
+            "predicate": "Location",
+            "value": "Japan"
+          },
+          {
+            "level": "info",
+            "namespace": "Shodan",
+            "predicate": "ASN",
+            "value": "AS4694"
+          },
+          {
+            "level": "suspicious",
+            "namespace": "Shodan",
+            "predicate": "VULNS",
+            "value": 294
+          }
+        ]
+      },
+      "PassiveTotal_Malware_2_0": {
+        "taxonomies": [
+          {
+            "level": "safe",
+            "namespace": "PT",
+            "predicate": "Malware",
+            "value": "False"
+          }
+        ]
+      },
+      "PassiveTotal_Unique_Resolutions_2_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "PT",
+            "predicate": "UniqueResolution",
+            "value": "0 record(s)"
+          }
+        ]
+      },
+      "MISP_2_1": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "MISP",
+            "predicate": "Search",
+            "value": "0 events"
+          }
+        ]
+      },
+      "RiskIQ_Malware_1_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Malware",
+            "value": 0
+          }
+        ]
+      },
+      "RiskIQ_Components_1_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Components",
+            "value": 0
+          }
+        ]
+      },
+      "RiskIQ_Trackers_1_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Trackers",
+            "value": 0
+          }
+        ]
+      },
+      "RiskIQ_Reputation_1_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "ReputationScore",
+            "value": 0
+          }
+        ]
+      },
+      "RiskIQ_Artifacts_1_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "Artifacts",
+            "value": null
+          }
+        ]
+      },
+      "RiskIQ_HostpairChildren_1_0": {
+        "taxonomies": [
+          {
+            "level": "info",
+            "namespace": "RIQ",
+            "predicate": "HostpairChildren",
+            "value": 0
+          }
+        ]
+      }
+    },
+    "message": "new colleuge",
+    "extraData": {},
+    "ignoreSimilarity": false
+  }
+]

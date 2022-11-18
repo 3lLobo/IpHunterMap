@@ -1,0 +1,28 @@
+[
+  {
+    "_id": "~40964280",
+    "id": "~40964280",
+    "_type": "case",
+    "caseId": 2,
+    "title": "Inspect Ips",
+    "description": "Hunting IPs",
+    "severity": 2,
+    "startDate": 1664889000000,
+    "endDate": null,
+    "impactStatus": null,
+    "resolutionStatus": null,
+    "tags": [
+      "ip"
+    ]
+  },
+  {
+    "_id": "~8208",
+    "id": "~8208",
+    "createdAt": 1664799652023,
+    "updatedAt": null,
+    "_type": "case",
+    "caseId": 1,
+    "title": "chase ips",
+    "description": "ips"
+  }
+]

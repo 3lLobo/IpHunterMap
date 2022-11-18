@@ -1,0 +1,380 @@
+[
+  {
+    "data": {
+      "ip": "201.175.48.170",
+      "type": "ipv4",
+      "latitude": -25.348061,
+      "longitude": -54.237782,
+      "is_eu": false,
+      "continent_code": "SA",
+      "continent_name": "South America",
+      "country_code": "BR",
+      "country_name": "Brazil",
+      "region_name": "Parana",
+      "city": "Sao Miguel do Iguacu",
+      "location": {
+        "capital": "Brasília",
+        "native_name": "Brasil",
+        "flag": "http://assets.promptapi.com/flags/BR.svg",
+        "top_level_domains": [
+          ".br"
+        ],
+        "calling_codes": [
+          "55"
+        ]
+      },
+      "connection": {
+        "asn": 262437,
+        "isp": "InNET Ponto Com Ltda."
+      },
+      "currencies": [
+        {
+          "name": "Brazilian real",
+          "code": "BRL",
+          "symbol": "R$"
+        }
+      ],
+      "timezones": [
+        "UTC-05:00",
+        "UTC-04:00",
+        "UTC-03:00",
+        "UTC-02:00"
+      ]
+    },
+    "status": 200,
+    "statusText": "",
+    "headers": {
+      "content-type": "application/json"
+    },
+    "config": {
+      "transitional": {
+        "silentJSONParsing": true,
+        "forcedJSONParsing": true,
+        "clarifyTimeoutError": false
+      },
+      "transformRequest": [
+        null
+      ],
+      "transformResponse": [
+        null
+      ],
+      "timeout": 0,
+      "xsrfCookieName": "XSRF-TOKEN",
+      "xsrfHeaderName": "X-XSRF-TOKEN",
+      "maxContentLength": -1,
+      "maxBodyLength": -1,
+      "env": {
+        "FormData": null
+      },
+      "headers": {
+        "Accept": "application/json, text/plain, */*",
+        "apikey": "4R6O0ttZ7MRrd8OU4p2n7EvITf0FNPAB"
+      },
+      "method": "get",
+      "url": "https://api.apilayer.com/ip_to_location/201.175.48.170"
+    },
+    "request": {}
+  },
+  {
+    "data": {
+      "ip": "201.175.50.37",
+      "type": "ipv4",
+      "latitude": -25.348061,
+      "longitude": -54.237782,
+      "is_eu": false,
+      "continent_code": "SA",
+      "continent_name": "South America",
+      "country_code": "BR",
+      "country_name": "Brazil",
+      "region_name": "Parana",
+      "city": "Sao Miguel do Iguacu",
+      "location": {
+        "capital": "Brasília",
+        "native_name": "Brasil",
+        "flag": "http://assets.promptapi.com/flags/BR.svg",
+        "top_level_domains": [
+          ".br"
+        ],
+        "calling_codes": [
+          "55"
+        ]
+      },
+      "connection": {
+        "asn": 262437,
+        "isp": "InNET Ponto Com Ltda."
+      },
+      "currencies": [
+        {
+          "name": "Brazilian real",
+          "code": "BRL",
+          "symbol": "R$"
+        }
+      ],
+      "timezones": [
+        "UTC-05:00",
+        "UTC-04:00",
+        "UTC-03:00",
+        "UTC-02:00"
+      ]
+    },
+    "status": 200,
+    "statusText": "",
+    "headers": {
+      "content-type": "application/json"
+    },
+    "config": {
+      "transitional": {
+        "silentJSONParsing": true,
+        "forcedJSONParsing": true,
+        "clarifyTimeoutError": false
+      },
+      "transformRequest": [
+        null
+      ],
+      "transformResponse": [
+        null
+      ],
+      "timeout": 0,
+      "xsrfCookieName": "XSRF-TOKEN",
+      "xsrfHeaderName": "X-XSRF-TOKEN",
+      "maxContentLength": -1,
+      "maxBodyLength": -1,
+      "env": {
+        "FormData": null
+      },
+      "headers": {
+        "Accept": "application/json, text/plain, */*",
+        "apikey": "4R6O0ttZ7MRrd8OU4p2n7EvITf0FNPAB"
+      },
+      "method": "get",
+      "url": "https://api.apilayer.com/ip_to_location/201.175.50.37"
+    },
+    "request": {}
+  },
+  {
+    "data": {
+      "ip": "67.205.130.4",
+      "type": "ipv4",
+      "latitude": 40.804272,
+      "longitude": -74.012077,
+      "is_eu": false,
+      "continent_code": "NA",
+      "continent_name": "North America",
+      "country_code": "US",
+      "country_name": "United States of America",
+      "region_name": "New Jersey",
+      "city": "North Bergen",
+      "location": {
+        "capital": "Washington, D.C.",
+        "native_name": "United States",
+        "flag": "http://assets.promptapi.com/flags/US.svg",
+        "top_level_domains": [
+          ".us"
+        ],
+        "calling_codes": [
+          "1"
+        ]
+      },
+      "connection": {
+        "asn": 14061,
+        "isp": "DigitalOcean, LLC"
+      },
+      "currencies": [
+        {
+          "name": "United States dollar",
+          "code": "USD",
+          "symbol": "$"
+        }
+      ],
+      "timezones": [
+        "UTC-12:00",
+        "UTC-11:00",
+        "UTC-10:00",
+        "UTC-09:00",
+        "UTC-08:00",
+        "UTC-07:00",
+        "UTC-06:00",
+        "UTC-05:00",
+        "UTC-04:00",
+        "UTC+10:00",
+        "UTC+12:00"
+      ]
+    },
+    "status": 200,
+    "statusText": "",
+    "headers": {
+      "content-type": "application/json"
+    },
+    "config": {
+      "transitional": {
+        "silentJSONParsing": true,
+        "forcedJSONParsing": true,
+        "clarifyTimeoutError": false
+      },
+      "transformRequest": [
+        null
+      ],
+      "transformResponse": [
+        null
+      ],
+      "timeout": 0,
+      "xsrfCookieName": "XSRF-TOKEN",
+      "xsrfHeaderName": "X-XSRF-TOKEN",
+      "maxContentLength": -1,
+      "maxBodyLength": -1,
+      "env": {
+        "FormData": null
+      },
+      "headers": {
+        "Accept": "application/json, text/plain, */*",
+        "apikey": "4R6O0ttZ7MRrd8OU4p2n7EvITf0FNPAB"
+      },
+      "method": "get",
+      "url": "https://api.apilayer.com/ip_to_location/67.205.130.4"
+    },
+    "request": {}
+  },
+  {
+    "data": {
+      "ip": "179.60.147.99",
+      "type": "ipv4",
+      "latitude": 50.11552,
+      "longitude": 8.68417,
+      "is_eu": false,
+      "continent_code": "NA",
+      "continent_name": "North America",
+      "country_code": "DE",
+      "country_name": "Germany",
+      "region_name": "Hessen",
+      "city": "Frankfurt am Main",
+      "location": {
+        "capital": "Berlin",
+        "native_name": "Deutschland",
+        "flag": "http://assets.promptapi.com/flags/DE.svg",
+        "top_level_domains": [
+          ".de"
+        ],
+        "calling_codes": [
+          "49"
+        ]
+      },
+      "connection": {},
+      "currencies": [
+        {
+          "name": "Euro",
+          "code": "EUR",
+          "symbol": "€"
+        }
+      ],
+      "timezones": [
+        "UTC+01:00"
+      ]
+    },
+    "status": 200,
+    "statusText": "",
+    "headers": {
+      "content-type": "application/json"
+    },
+    "config": {
+      "transitional": {
+        "silentJSONParsing": true,
+        "forcedJSONParsing": true,
+        "clarifyTimeoutError": false
+      },
+      "transformRequest": [
+        null
+      ],
+      "transformResponse": [
+        null
+      ],
+      "timeout": 0,
+      "xsrfCookieName": "XSRF-TOKEN",
+      "xsrfHeaderName": "X-XSRF-TOKEN",
+      "maxContentLength": -1,
+      "maxBodyLength": -1,
+      "env": {
+        "FormData": null
+      },
+      "headers": {
+        "Accept": "application/json, text/plain, */*",
+        "apikey": "4R6O0ttZ7MRrd8OU4p2n7EvITf0FNPAB"
+      },
+      "method": "get",
+      "url": "https://api.apilayer.com/ip_to_location/179.60.147.99"
+    },
+    "request": {}
+  },
+  {
+    "data": {
+      "ip": "61.177.173.51",
+      "type": "ipv4",
+      "latitude": 34.599998,
+      "longitude": 119.166664,
+      "is_eu": false,
+      "continent_code": "AS",
+      "continent_name": "Asia",
+      "country_code": "CN",
+      "country_name": "China",
+      "region_name": "Jiangsu",
+      "city": "Lianyungang",
+      "location": {
+        "capital": "Beijing",
+        "native_name": "中国",
+        "flag": "http://assets.promptapi.com/flags/CN.svg",
+        "top_level_domains": [
+          ".cn"
+        ],
+        "calling_codes": [
+          "86"
+        ]
+      },
+      "connection": {
+        "asn": 4134,
+        "isp": "Chinanet"
+      },
+      "currencies": [
+        {
+          "name": "Chinese yuan",
+          "code": "CNY",
+          "symbol": "¥"
+        }
+      ],
+      "timezones": [
+        "UTC+08:00"
+      ]
+    },
+    "status": 200,
+    "statusText": "",
+    "headers": {
+      "content-type": "application/json"
+    },
+    "config": {
+      "transitional": {
+        "silentJSONParsing": true,
+        "forcedJSONParsing": true,
+        "clarifyTimeoutError": false
+      },
+      "transformRequest": [
+        null
+      ],
+      "transformResponse": [
+        null
+      ],
+      "timeout": 0,
+      "xsrfCookieName": "XSRF-TOKEN",
+      "xsrfHeaderName": "X-XSRF-TOKEN",
+      "maxContentLength": -1,
+      "maxBodyLength": -1,
+      "env": {
+        "FormData": null
+      },
+      "headers": {
+        "Accept": "application/json, text/plain, */*",
+        "apikey": "4R6O0ttZ7MRrd8OU4p2n7EvITf0FNPAB"
+      },
+      "method": "get",
+      "url": "https://api.apilayer.com/ip_to_location/61.177.173.51"
+    },
+    "request": {}
+  }
+]

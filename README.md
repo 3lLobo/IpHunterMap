@@ -1,10 +1,11 @@
 # IpHunter
 
-Cyber-Side project integrating GoogleMaps and DeckGL into NextJs .
+Cyber-Side project integrating GoogleMaps and DeckGL with NextJs.
+Using Vector maps and D3 powered animations for data visualization. 
 
 [Live Demo](https://iphuntermap.vercel.app/)
 
-![LaveryLogo](https://user-images.githubusercontent.com/25290565/202146350-8fe7fa31-004b-49f8-9aca-e5ce972cc988.png)
+![LaveryLogo](https://user-images.githubusercontent.com/25290565/205463167-ae1b8427-f569-4bc7-ae55-1000afa10800.svg)
 ## Front - IpHunter
 
 Tabs:

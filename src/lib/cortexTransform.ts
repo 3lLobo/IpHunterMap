@@ -4,7 +4,6 @@ import { Obj } from 'reselect/es/types'
 // --resolveJsonModule
 import * as analyzerNameMap from '@/constants/analyzerNameMap.json'
 
-
 // Transform the response from the Hive to our data structure.
 export function transformCase(
   data: Array<any>,

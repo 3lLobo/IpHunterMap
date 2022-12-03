@@ -39,10 +39,7 @@ export const makeStore = (context: Context) =>
   configureStore({
     reducer: combinedReducer,
     middleware: (getDefaultMiddleware) =>
-      getDefaultMiddleware().concat([
-        cortexApi.middleware,
-        geoApi.middleware,
-      ]),
+      getDefaultMiddleware().concat([cortexApi.middleware, geoApi.middleware]),
     devTools: true,
   })
 

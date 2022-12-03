@@ -449,9 +449,7 @@
     "data": "179.60.147.99",
     "startDate": 1664799792551,
     "tlp": 2,
-    "tags": [
-      "ip"
-    ],
+    "tags": ["ip"],
     "ioc": false,
     "sighted": false,
     "reports": {
@@ -724,9 +722,7 @@
     "data": "61.177.173.51",
     "startDate": 1664799791688,
     "tlp": 2,
-    "tags": [
-      "ip"
-    ],
+    "tags": ["ip"],
     "ioc": false,
     "sighted": false,
     "reports": {

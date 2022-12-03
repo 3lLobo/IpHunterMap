@@ -1,0 +1,7 @@
+{
+  "PassiveTotal_Passive_Dns_2_1": "rDns",
+  "AbuseIPDB_1_0": "abuseIp",
+  "VirusTotal_GetReport_3_0": "vt",
+  "RiskIQ_Reputation_1_0": "riskIq",
+  "MISP_2_1": "natoMisp"
+}

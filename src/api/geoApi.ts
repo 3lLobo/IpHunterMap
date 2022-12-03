@@ -1,5 +1,3 @@
-import { countryCodes } from '@/constants/shodan'
-import { findObject } from '@/lib/deepSearch'
 import { BaseQueryFn, createApi } from '@reduxjs/toolkit/query/react'
 import axios from 'axios'
 import { AxiosRequestConfig, AxiosError } from 'axios'
@@ -55,12 +53,9 @@ export const geoApi = createApi({
           url: `/ip_to_location/${ip}`,
           method: 'get',
         }
-      }
-    })
-  })
+      },
+    }),
+  }),
 })
 
-
-export const {
-  useGetGeoQuery,
-} = geoApi
+export const { useGetGeoQuery } = geoApi

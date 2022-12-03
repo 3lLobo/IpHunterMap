@@ -16,12 +16,8 @@
         "capital": "Moscow",
         "native_name": "Россия",
         "flag": "http://assets.promptapi.com/flags/RU.svg",
-        "top_level_domains": [
-          ".ru"
-        ],
-        "calling_codes": [
-          "7"
-        ]
+        "top_level_domains": [".ru"],
+        "calling_codes": ["7"]
       },
       "connection": {
         "asn": 49335,
@@ -57,12 +53,8 @@
         "forcedJSONParsing": true,
         "clarifyTimeoutError": false
       },
-      "transformRequest": [
-        null
-      ],
-      "transformResponse": [
-        null
-      ],
+      "transformRequest": [null],
+      "transformResponse": [null],
       "timeout": 0,
       "xsrfCookieName": "XSRF-TOKEN",
       "xsrfHeaderName": "X-XSRF-TOKEN",
@@ -97,12 +89,8 @@
         "capital": "Berlin",
         "native_name": "Deutschland",
         "flag": "http://assets.promptapi.com/flags/DE.svg",
-        "top_level_domains": [
-          ".de"
-        ],
-        "calling_codes": [
-          "49"
-        ]
+        "top_level_domains": [".de"],
+        "calling_codes": ["49"]
       },
       "connection": {
         "asn": 31103,
@@ -115,9 +103,7 @@
           "symbol": "€"
         }
       ],
-      "timezones": [
-        "UTC+01:00"
-      ]
+      "timezones": ["UTC+01:00"]
     },
     "status": 200,
     "statusText": "",
@@ -130,12 +116,8 @@
         "forcedJSONParsing": true,
         "clarifyTimeoutError": false
       },
-      "transformRequest": [
-        null
-      ],
-      "transformResponse": [
-        null
-      ],
+      "transformRequest": [null],
+      "transformResponse": [null],
       "timeout": 0,
       "xsrfCookieName": "XSRF-TOKEN",
       "xsrfHeaderName": "X-XSRF-TOKEN",
@@ -170,12 +152,8 @@
         "capital": "Kiev",
         "native_name": "Україна",
         "flag": "http://assets.promptapi.com/flags/UA.svg",
-        "top_level_domains": [
-          ".ua"
-        ],
-        "calling_codes": [
-          "380"
-        ]
+        "top_level_domains": [".ua"],
+        "calling_codes": ["380"]
       },
       "connection": {
         "asn": 25229,
@@ -188,9 +166,7 @@
           "symbol": "₴"
         }
       ],
-      "timezones": [
-        "UTC+02:00"
-      ]
+      "timezones": ["UTC+02:00"]
     },
     "status": 200,
     "statusText": "",
@@ -203,12 +179,8 @@
         "forcedJSONParsing": true,
         "clarifyTimeoutError": false
       },
-      "transformRequest": [
-        null
-      ],
-      "transformResponse": [
-        null
-      ],
+      "transformRequest": [null],
+      "transformResponse": [null],
       "timeout": 0,
       "xsrfCookieName": "XSRF-TOKEN",
       "xsrfHeaderName": "X-XSRF-TOKEN",
@@ -243,12 +215,8 @@
         "capital": "Stockholm",
         "native_name": "Sverige",
         "flag": "http://assets.promptapi.com/flags/SE.svg",
-        "top_level_domains": [
-          ".se"
-        ],
-        "calling_codes": [
-          "46"
-        ]
+        "top_level_domains": [".se"],
+        "calling_codes": ["46"]
       },
       "connection": {
         "asn": 8473,
@@ -261,9 +229,7 @@
           "symbol": "kr"
         }
       ],
-      "timezones": [
-        "UTC+01:00"
-      ]
+      "timezones": ["UTC+01:00"]
     },
     "status": 200,
     "statusText": "",
@@ -276,12 +242,8 @@
         "forcedJSONParsing": true,
         "clarifyTimeoutError": false
       },
-      "transformRequest": [
-        null
-      ],
-      "transformResponse": [
-        null
-      ],
+      "transformRequest": [null],
+      "transformResponse": [null],
       "timeout": 0,
       "xsrfCookieName": "XSRF-TOKEN",
       "xsrfHeaderName": "X-XSRF-TOKEN",
@@ -316,12 +278,8 @@
         "capital": "Brussels",
         "native_name": "België",
         "flag": "http://assets.promptapi.com/flags/BE.svg",
-        "top_level_domains": [
-          ".be"
-        ],
-        "calling_codes": [
-          "32"
-        ]
+        "top_level_domains": [".be"],
+        "calling_codes": ["32"]
       },
       "connection": {
         "asn": 21489,
@@ -334,9 +292,7 @@
           "symbol": "€"
         }
       ],
-      "timezones": [
-        "UTC+01:00"
-      ]
+      "timezones": ["UTC+01:00"]
     },
     "status": 200,
     "statusText": "",
@@ -349,12 +305,8 @@
         "forcedJSONParsing": true,
         "clarifyTimeoutError": false
       },
-      "transformRequest": [
-        null
-      ],
-      "transformResponse": [
-        null
-      ],
+      "transformRequest": [null],
+      "transformResponse": [null],
       "timeout": 0,
       "xsrfCookieName": "XSRF-TOKEN",
       "xsrfHeaderName": "X-XSRF-TOKEN",
@@ -389,12 +341,8 @@
         "capital": "Moscow",
         "native_name": "Россия",
         "flag": "http://assets.promptapi.com/flags/RU.svg",
-        "top_level_domains": [
-          ".ru"
-        ],
-        "calling_codes": [
-          "7"
-        ]
+        "top_level_domains": [".ru"],
+        "calling_codes": ["7"]
       },
       "connection": {
         "asn": 5553,
@@ -430,12 +378,8 @@
         "forcedJSONParsing": true,
         "clarifyTimeoutError": false
       },
-      "transformRequest": [
-        null
-      ],
-      "transformResponse": [
-        null
-      ],
+      "transformRequest": [null],
+      "transformResponse": [null],
       "timeout": 0,
       "xsrfCookieName": "XSRF-TOKEN",
       "xsrfHeaderName": "X-XSRF-TOKEN",
@@ -470,12 +414,8 @@
         "capital": "Amsterdam",
         "native_name": "Nederland",
         "flag": "http://assets.promptapi.com/flags/NL.svg",
-        "top_level_domains": [
-          ".nl"
-        ],
-        "calling_codes": [
-          "31"
-        ]
+        "top_level_domains": [".nl"],
+        "calling_codes": ["31"]
       },
       "connection": {
         "asn": 14061,
@@ -488,10 +428,7 @@
           "symbol": "€"
         }
       ],
-      "timezones": [
-        "UTC-04:00",
-        "UTC+01:00"
-      ]
+      "timezones": ["UTC-04:00", "UTC+01:00"]
     },
     "status": 200,
     "statusText": "",
@@ -504,12 +441,8 @@
         "forcedJSONParsing": true,
         "clarifyTimeoutError": false
       },
-      "transformRequest": [
-        null
-      ],
-      "transformResponse": [
-        null
-      ],
+      "transformRequest": [null],
+      "transformResponse": [null],
       "timeout": 0,
       "xsrfCookieName": "XSRF-TOKEN",
       "xsrfHeaderName": "X-XSRF-TOKEN",
@@ -544,12 +477,8 @@
         "capital": "Madrid",
         "native_name": "España",
         "flag": "http://assets.promptapi.com/flags/ES.svg",
-        "top_level_domains": [
-          ".es"
-        ],
-        "calling_codes": [
-          "34"
-        ]
+        "top_level_domains": [".es"],
+        "calling_codes": ["34"]
       },
       "connection": {
         "asn": 3352,
@@ -562,10 +491,7 @@
           "symbol": "€"
         }
       ],
-      "timezones": [
-        "UTC",
-        "UTC+01:00"
-      ]
+      "timezones": ["UTC", "UTC+01:00"]
     },
     "status": 200,
     "statusText": "",
@@ -578,12 +504,8 @@
         "forcedJSONParsing": true,
         "clarifyTimeoutError": false
       },
-      "transformRequest": [
-        null
-      ],
-      "transformResponse": [
-        null
-      ],
+      "transformRequest": [null],
+      "transformResponse": [null],
       "timeout": 0,
       "xsrfCookieName": "XSRF-TOKEN",
       "xsrfHeaderName": "X-XSRF-TOKEN",
@@ -618,12 +540,8 @@
         "capital": "Berlin",
         "native_name": "Deutschland",
         "flag": "http://assets.promptapi.com/flags/DE.svg",
-        "top_level_domains": [
-          ".de"
-        ],
-        "calling_codes": [
-          "49"
-        ]
+        "top_level_domains": [".de"],
+        "calling_codes": ["49"]
       },
       "connection": {
         "asn": 16276,
@@ -636,9 +554,7 @@
           "symbol": "€"
         }
       ],
-      "timezones": [
-        "UTC+01:00"
-      ]
+      "timezones": ["UTC+01:00"]
     },
     "status": 200,
     "statusText": "",
@@ -651,12 +567,8 @@
         "forcedJSONParsing": true,
         "clarifyTimeoutError": false
       },
-      "transformRequest": [
-        null
-      ],
-      "transformResponse": [
-        null
-      ],
+      "transformRequest": [null],
+      "transformResponse": [null],
       "timeout": 0,
       "xsrfCookieName": "XSRF-TOKEN",
       "xsrfHeaderName": "X-XSRF-TOKEN",
@@ -691,12 +603,8 @@
         "capital": "Beijing",
         "native_name": "中国",
         "flag": "http://assets.promptapi.com/flags/CN.svg",
-        "top_level_domains": [
-          ".cn"
-        ],
-        "calling_codes": [
-          "86"
-        ]
+        "top_level_domains": [".cn"],
+        "calling_codes": ["86"]
       },
       "connection": {
         "asn": 4134,
@@ -709,9 +617,7 @@
           "symbol": "¥"
         }
       ],
-      "timezones": [
-        "UTC+08:00"
-      ]
+      "timezones": ["UTC+08:00"]
     },
     "status": 200,
     "statusText": "",
@@ -724,12 +630,8 @@
         "forcedJSONParsing": true,
         "clarifyTimeoutError": false
       },
-      "transformRequest": [
-        null
-      ],
-      "transformResponse": [
-        null
-      ],
+      "transformRequest": [null],
+      "transformResponse": [null],
       "timeout": 0,
       "xsrfCookieName": "XSRF-TOKEN",
       "xsrfHeaderName": "X-XSRF-TOKEN",
@@ -764,12 +666,8 @@
         "capital": "Tokyo",
         "native_name": "日本",
         "flag": "http://assets.promptapi.com/flags/JP.svg",
-        "top_level_domains": [
-          ".jp"
-        ],
-        "calling_codes": [
-          "81"
-        ]
+        "top_level_domains": [".jp"],
+        "calling_codes": ["81"]
       },
       "connection": {
         "asn": 4694,
@@ -782,9 +680,7 @@
           "symbol": "¥"
         }
       ],
-      "timezones": [
-        "UTC+09:00"
-      ]
+      "timezones": ["UTC+09:00"]
     },
     "status": 200,
     "statusText": "",
@@ -797,12 +693,8 @@
         "forcedJSONParsing": true,
         "clarifyTimeoutError": false
       },
-      "transformRequest": [
-        null
-      ],
-      "transformResponse": [
-        null
-      ],
+      "transformRequest": [null],
+      "transformResponse": [null],
       "timeout": 0,
       "xsrfCookieName": "XSRF-TOKEN",
       "xsrfHeaderName": "X-XSRF-TOKEN",

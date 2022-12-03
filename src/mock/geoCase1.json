@@ -16,12 +16,8 @@
         "capital": "Brasília",
         "native_name": "Brasil",
         "flag": "http://assets.promptapi.com/flags/BR.svg",
-        "top_level_domains": [
-          ".br"
-        ],
-        "calling_codes": [
-          "55"
-        ]
+        "top_level_domains": [".br"],
+        "calling_codes": ["55"]
       },
       "connection": {
         "asn": 262437,
@@ -34,12 +30,7 @@
           "symbol": "R$"
         }
       ],
-      "timezones": [
-        "UTC-05:00",
-        "UTC-04:00",
-        "UTC-03:00",
-        "UTC-02:00"
-      ]
+      "timezones": ["UTC-05:00", "UTC-04:00", "UTC-03:00", "UTC-02:00"]
     },
     "status": 200,
     "statusText": "",
@@ -52,12 +43,8 @@
         "forcedJSONParsing": true,
         "clarifyTimeoutError": false
       },
-      "transformRequest": [
-        null
-      ],
-      "transformResponse": [
-        null
-      ],
+      "transformRequest": [null],
+      "transformResponse": [null],
       "timeout": 0,
       "xsrfCookieName": "XSRF-TOKEN",
       "xsrfHeaderName": "X-XSRF-TOKEN",
@@ -67,8 +54,7 @@
         "FormData": null
       },
       "headers": {
-        "Accept": "application/json, text/plain, */*",
-        "apikey": "4R6O0ttZ7MRrd8OU4p2n7EvITf0FNPAB"
+        "Accept": "application/json, text/plain, */*"
       },
       "method": "get",
       "url": "https://api.apilayer.com/ip_to_location/201.175.48.170"
@@ -92,12 +78,8 @@
         "capital": "Brasília",
         "native_name": "Brasil",
         "flag": "http://assets.promptapi.com/flags/BR.svg",
-        "top_level_domains": [
-          ".br"
-        ],
-        "calling_codes": [
-          "55"
-        ]
+        "top_level_domains": [".br"],
+        "calling_codes": ["55"]
       },
       "connection": {
         "asn": 262437,
@@ -110,12 +92,7 @@
           "symbol": "R$"
         }
       ],
-      "timezones": [
-        "UTC-05:00",
-        "UTC-04:00",
-        "UTC-03:00",
-        "UTC-02:00"
-      ]
+      "timezones": ["UTC-05:00", "UTC-04:00", "UTC-03:00", "UTC-02:00"]
     },
     "status": 200,
     "statusText": "",
@@ -128,12 +105,8 @@
         "forcedJSONParsing": true,
         "clarifyTimeoutError": false
       },
-      "transformRequest": [
-        null
-      ],
-      "transformResponse": [
-        null
-      ],
+      "transformRequest": [null],
+      "transformResponse": [null],
       "timeout": 0,
       "xsrfCookieName": "XSRF-TOKEN",
       "xsrfHeaderName": "X-XSRF-TOKEN",
@@ -143,8 +116,7 @@
         "FormData": null
       },
       "headers": {
-        "Accept": "application/json, text/plain, */*",
-        "apikey": "4R6O0ttZ7MRrd8OU4p2n7EvITf0FNPAB"
+        "Accept": "application/json, text/plain, */*"
       },
       "method": "get",
       "url": "https://api.apilayer.com/ip_to_location/201.175.50.37"
@@ -168,12 +140,8 @@
         "capital": "Washington, D.C.",
         "native_name": "United States",
         "flag": "http://assets.promptapi.com/flags/US.svg",
-        "top_level_domains": [
-          ".us"
-        ],
-        "calling_codes": [
-          "1"
-        ]
+        "top_level_domains": [".us"],
+        "calling_codes": ["1"]
       },
       "connection": {
         "asn": 14061,
@@ -211,12 +179,8 @@
         "forcedJSONParsing": true,
         "clarifyTimeoutError": false
       },
-      "transformRequest": [
-        null
-      ],
-      "transformResponse": [
-        null
-      ],
+      "transformRequest": [null],
+      "transformResponse": [null],
       "timeout": 0,
       "xsrfCookieName": "XSRF-TOKEN",
       "xsrfHeaderName": "X-XSRF-TOKEN",
@@ -226,8 +190,7 @@
         "FormData": null
       },
       "headers": {
-        "Accept": "application/json, text/plain, */*",
-        "apikey": "4R6O0ttZ7MRrd8OU4p2n7EvITf0FNPAB"
+        "Accept": "application/json, text/plain, */*"
       },
       "method": "get",
       "url": "https://api.apilayer.com/ip_to_location/67.205.130.4"
@@ -251,12 +214,8 @@
         "capital": "Berlin",
         "native_name": "Deutschland",
         "flag": "http://assets.promptapi.com/flags/DE.svg",
-        "top_level_domains": [
-          ".de"
-        ],
-        "calling_codes": [
-          "49"
-        ]
+        "top_level_domains": [".de"],
+        "calling_codes": ["49"]
       },
       "connection": {},
       "currencies": [
@@ -266,9 +225,7 @@
           "symbol": "€"
         }
       ],
-      "timezones": [
-        "UTC+01:00"
-      ]
+      "timezones": ["UTC+01:00"]
     },
     "status": 200,
     "statusText": "",
@@ -281,12 +238,8 @@
         "forcedJSONParsing": true,
         "clarifyTimeoutError": false
       },
-      "transformRequest": [
-        null
-      ],
-      "transformResponse": [
-        null
-      ],
+      "transformRequest": [null],
+      "transformResponse": [null],
       "timeout": 0,
       "xsrfCookieName": "XSRF-TOKEN",
       "xsrfHeaderName": "X-XSRF-TOKEN",
@@ -296,8 +249,7 @@
         "FormData": null
       },
       "headers": {
-        "Accept": "application/json, text/plain, */*",
-        "apikey": "4R6O0ttZ7MRrd8OU4p2n7EvITf0FNPAB"
+        "Accept": "application/json, text/plain, */*"
       },
       "method": "get",
       "url": "https://api.apilayer.com/ip_to_location/179.60.147.99"
@@ -321,12 +273,8 @@
         "capital": "Beijing",
         "native_name": "中国",
         "flag": "http://assets.promptapi.com/flags/CN.svg",
-        "top_level_domains": [
-          ".cn"
-        ],
-        "calling_codes": [
-          "86"
-        ]
+        "top_level_domains": [".cn"],
+        "calling_codes": ["86"]
       },
       "connection": {
         "asn": 4134,
@@ -339,9 +287,7 @@
           "symbol": "¥"
         }
       ],
-      "timezones": [
-        "UTC+08:00"
-      ]
+      "timezones": ["UTC+08:00"]
     },
     "status": 200,
     "statusText": "",
@@ -354,12 +300,8 @@
         "forcedJSONParsing": true,
         "clarifyTimeoutError": false
       },
-      "transformRequest": [
-        null
-      ],
-      "transformResponse": [
-        null
-      ],
+      "transformRequest": [null],
+      "transformResponse": [null],
       "timeout": 0,
       "xsrfCookieName": "XSRF-TOKEN",
       "xsrfHeaderName": "X-XSRF-TOKEN",
@@ -369,8 +311,7 @@
         "FormData": null
       },
       "headers": {
-        "Accept": "application/json, text/plain, */*",
-        "apikey": "4R6O0ttZ7MRrd8OU4p2n7EvITf0FNPAB"
+        "Accept": "application/json, text/plain, */*"
       },
       "method": "get",
       "url": "https://api.apilayer.com/ip_to_location/61.177.173.51"

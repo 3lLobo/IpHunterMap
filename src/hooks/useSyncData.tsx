@@ -23,8 +23,8 @@ export const useSyncData = (activeCase: any) => {
   } = useGetObservablesQuery(
     activeCase
       ? {
-        caseId: activeCase.caseId,
-      }
+          caseId: activeCase.caseId,
+        }
       : skipToken
   )
 
@@ -41,13 +41,12 @@ export const useSyncData = (activeCase: any) => {
 
   // UseEffect to extract the hunterIds from the post response.
   useEffect(() => {
-    if (!demoMode) {
-      setTableData(() => { }
+    if (observables && demoMode) {
+      setTableData(
+        observables.map((o: any) => {
+          return { ...o, ...tableTransform(o) }
+        })
       )
-    } else if (observables && demoMode) {
-      setTableData(observables.map((o: any) => {
-        return { ...o, ...tableTransform(o) }
-      }))
     }
   }, [observables, demoMode])
 
@@ -58,7 +57,15 @@ export const useSyncData = (activeCase: any) => {
 function tableTransform(observable: any): TableData {
   return {
     ip: observable?.cti?.countryCode || '',
+    riskIq: observable.cti.analyzers.filter(
+      (a: any) => a.analyzer === 'riskIq'
+    )[0]?.value,
+    hunterId: observable._id,
   }
 }
 
-type TableData = any
+type TableData = {
+  ip: string
+  riskIq: number
+  hunterId: string
+}

@@ -2,6 +2,8 @@ import { countryCodes } from '@/constants/shodan'
 import { findObject } from '@/lib/deepSearch'
 import { Obj } from 'reselect/es/types'
 // --resolveJsonModule
+import * as analyzerNameMap from '@/constants/analyzerNameMap.json'
+
 
 // Transform the response from the Hive to our data structure.
 export function transformCase(
@@ -38,6 +40,16 @@ function getAnalyzer(reports: Obj<any>): any[] {
   let analyzers: any[] = []
 
   for (const [key, value] of Object.entries(reports)) {
+    if (Object.keys(analyzerNameMap).includes(key)) {
+      const reportData = value.taxonomies[0]
+      const analyzer = {
+        analyzer: analyzerNameMap[key],
+        label: reportData.level,
+        value: Number.parseInt(reportData.value),
+        malicious: isMalicious(reportData),
+      }
+      analyzers.push(analyzer)
+    }
   }
   return analyzers
 }

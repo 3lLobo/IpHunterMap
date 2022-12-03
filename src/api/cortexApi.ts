@@ -19,27 +19,25 @@ const axiosBaseQuery =
   (
     { baseUrl }: { baseUrl: string } = { baseUrl: '' }
   ): BaseQueryFn<AxiosBaseQueryInput, unknown, unknown> =>
-    async ({ url, method, data, params }) => {
-      // if demo mode is on, simply return the saved responses.
-      if (process.env.NEXT_PUBLIC_DEMO_MODE === 'true') {
-        const urlEnding = url.split('/').pop()
-        let resData = []
-        if (urlEnding === 'case') {
-          // TODO: fix the mock data
-          resData = MockCase
-        } else if (urlEnding === 'query') {
-          const queryId = data.id
-          if (queryId === '1') {
-            resData = MockQuery1
-          } else if (queryId === '2') {
-            resData = MockQuery2
-          }
+  async ({ url, method, data, params }) => {
+    // if demo mode is on, simply return the saved responses.
+    if (process.env.NEXT_PUBLIC_DEMO_MODE === 'true') {
+      const urlEnding = url.split('/').pop()
+      let resData = []
+      if (urlEnding === 'case') {
+        // TODO: fix the mock data
+        resData = MockCase
+      } else if (urlEnding === 'query') {
+        const queryId = data.idOrName
+        if (queryId === '1') {
+          resData = MockQuery1
+        } else if (queryId === '2') {
+          resData = MockQuery2
         }
-        return { data: resData }
       }
+      return { data: resData }
     }
-
-
+  }
 
 /* Api to interact with the Cortex server on localhost:9000
  */
@@ -70,7 +68,7 @@ export const cortexApi = createApi({
         return {
           url: '/api/query',
           method: 'post',
-          data: { id: caseId },
+          data: { idOrName: `${caseId}` },
         }
       },
       transformResponse(baseQueryReturnValue: Array<any>, meta, arg) {

@@ -8,7 +8,6 @@ import { useEffect } from 'react'
 import MapFull from '../components/IpMap/MapFull'
 
 export default function Home({ articles }) {
-
   return (
     <>
       <Head>

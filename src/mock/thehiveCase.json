@@ -11,9 +11,7 @@
     "endDate": null,
     "impactStatus": null,
     "resolutionStatus": null,
-    "tags": [
-      "ip"
-    ]
+    "tags": ["ip"]
   },
   {
     "_id": "~8208",

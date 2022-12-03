@@ -7,9 +7,7 @@
     "data": "141.105.65.94",
     "startDate": 1668172455501,
     "tlp": 1,
-    "tags": [
-      "unified-kill-chain:Network Propagation=\"credential-access\""
-    ],
+    "tags": ["unified-kill-chain:Network Propagation=\"credential-access\""],
     "ioc": false,
     "sighted": false,
     "reports": {
@@ -116,9 +114,7 @@
     "data": "87.118.110.27",
     "startDate": 1668172455417,
     "tlp": 1,
-    "tags": [
-      "unified-kill-chain:Network Propagation=\"credential-access\""
-    ],
+    "tags": ["unified-kill-chain:Network Propagation=\"credential-access\""],
     "ioc": false,
     "sighted": false,
     "reports": {
@@ -225,9 +221,7 @@
     "data": "91.203.5.146",
     "startDate": 1668172455337,
     "tlp": 1,
-    "tags": [
-      "unified-kill-chain:Network Propagation=\"credential-access\""
-    ],
+    "tags": ["unified-kill-chain:Network Propagation=\"credential-access\""],
     "ioc": false,
     "sighted": false,
     "reports": {
@@ -334,9 +328,7 @@
     "data": "37.123.163.58",
     "startDate": 1668172454916,
     "tlp": 1,
-    "tags": [
-      "unified-kill-chain:Network Propagation=\"credential-access\""
-    ],
+    "tags": ["unified-kill-chain:Network Propagation=\"credential-access\""],
     "ioc": false,
     "sighted": false,
     "reports": {
@@ -443,9 +435,7 @@
     "data": "https://www.dehaagsehogeschool.nl/",
     "startDate": 1665180829178,
     "tlp": 1,
-    "tags": [
-      "nato:classification=\"CTS-B\""
-    ],
+    "tags": ["nato:classification=\"CTS-B\""],
     "ioc": false,
     "sighted": false,
     "reports": {
@@ -684,10 +674,7 @@
     "data": "https://hhs.nl",
     "startDate": 1665180701449,
     "tlp": 1,
-    "tags": [
-      "europol-event:wiretapping",
-      "nato:classification=\"NR\""
-    ],
+    "tags": ["europol-event:wiretapping", "nato:classification=\"NR\""],
     "ioc": false,
     "sighted": true,
     "reports": {
@@ -926,10 +913,7 @@
     "data": "https://thepiratebay.org/",
     "startDate": 1665060900854,
     "tlp": 2,
-    "tags": [
-      "tlp:white",
-      "tlp:ex:chr"
-    ],
+    "tags": ["tlp:white", "tlp:ex:chr"],
     "ioc": false,
     "sighted": true,
     "reports": {
@@ -1463,11 +1447,7 @@
     "data": "192.101.252.40",
     "startDate": 1665042315897,
     "tlp": 1,
-    "tags": [
-      "ip",
-      "nato",
-      "misp"
-    ],
+    "tags": ["ip", "nato", "misp"],
     "ioc": false,
     "sighted": false,
     "reports": {
@@ -1834,10 +1814,7 @@
     "data": "195.133.198.126",
     "startDate": 1664894339245,
     "tlp": 2,
-    "tags": [
-      "ip",
-      "russia"
-    ],
+    "tags": ["ip", "russia"],
     "ioc": false,
     "sighted": true,
     "reports": {
@@ -2190,9 +2167,7 @@
     "data": "206.189.2.23",
     "startDate": 1664891154100,
     "tlp": 2,
-    "tags": [
-      "mallware"
-    ],
+    "tags": ["mallware"],
     "ioc": false,
     "sighted": false,
     "reports": {
@@ -2549,10 +2524,7 @@
     "data": "79.155.74.231",
     "startDate": 1664890745556,
     "tlp": 2,
-    "tags": [
-      "ip",
-      "new"
-    ],
+    "tags": ["ip", "new"],
     "ioc": false,
     "sighted": false,
     "reports": {
@@ -2839,9 +2811,7 @@
     "data": "51.195.12.195",
     "startDate": 1664889158314,
     "tlp": 2,
-    "tags": [
-      "firstseen"
-    ],
+    "tags": ["firstseen"],
     "ioc": false,
     "sighted": true,
     "reports": {
@@ -3184,9 +3154,7 @@
     "data": "115.209.126.160",
     "startDate": 1664889156898,
     "tlp": 2,
-    "tags": [
-      "firstseen"
-    ],
+    "tags": ["firstseen"],
     "ioc": false,
     "sighted": true,
     "reports": {
@@ -3539,9 +3507,7 @@
     "data": "210.140.43.55 ",
     "startDate": 1664889156118,
     "tlp": 2,
-    "tags": [
-      "firstseen"
-    ],
+    "tags": ["firstseen"],
     "ioc": false,
     "sighted": true,
     "reports": {

@@ -97,7 +97,7 @@ const Map = ({ markers }) => {
   function getTooltip(object) {
     if (object.object) {
       const { ip, country_name, riskIq } = object.object
-      return `${ip} \n ${country_name} \n RIQscore: ${riskIq}`
+      return `${ip} \n ${country_name} \n RIQ score: ${riskIq}`
     }
     return null
   }
@@ -165,7 +165,7 @@ const Map = ({ markers }) => {
         </div>
         <div
           className="sr-only"
-          // variant="body1" gutterBottom
+        // variant="body1" gutterBottom
         >
           {'mapDescription'}
         </div>
@@ -174,7 +174,7 @@ const Map = ({ markers }) => {
             <div
               // In tailwind render a speachbubble with the name in bold and bleow the description.
               className="bg-snow z-0 mb-4 rounded-lg p-4 font-semibold shadow-lg dark:border dark:border-slate-900 dark:bg-transparent dark:text-slate-300 "
-              // variant="h6" gutterBottom
+            // variant="h6" gutterBottom
             >
               <div className=" text-center font-bold text-teal-500 dark:text-teal-400">
                 {defang(selected.ip)}
@@ -182,13 +182,13 @@ const Map = ({ markers }) => {
               <div
                 // This is the description of the marker.
                 className="mb-1 flex items-center justify-between gap-2 rounded-lg p-4 shadow-lg"
-                // variant="body1" gutterBottom
+              // variant="body1" gutterBottom
               >
                 <div>
                   {selected.country_name} <br /> {selected.city}
                 </div>
                 <Image
-                  src={`https://flagcdn.com/h160/${selected.country_code.toLowerCase()}.png`}
+                  src={`https://flagcdn.com/${selected.country_code.toLowerCase()}.svg`}
                   width={30}
                   height={20}
                   alt={selected.ip}
